@@ -1,38 +1,48 @@
 import java.util.Scanner;
 
 public class UserLogin {
- public static void main(String[] args) {
-    User[][] users=new User[7][2];
-    Login login_system = new Login(users);
-    
-    
- }   
+    public static void main(String[] args) {
+        User[] users = new User[7];
+        Login login_system = new Login(users);
+
+        users[0] = new User("itheima", "123456");
+        login_system.startLogin();
+
+    }
 }
-class User{
-    String[] user_fnfo;
-    public User(String[] user_info){
-        this.user_fnfo=user_info;
+
+class User {
+    String user_name;
+    String password;
+
+    public User(String user_name, String password) {
+        this.user_name = user_name;
+        this.password = password;
+    }
+}
+
+class Login {
+    private User[] users;
+
+    public Login(User[] users) {
+        this.users = users;
     }
 
-}
-class Login{
-    private User[][] users;
-    public Login(User[][] users){
-        this.users=users;
-    }
-    public void startLogin(){
-        
+    public void startLogin() {
+
         while (true) {
+            Scanner scanner = new Scanner(System.in);
             for (int i = 0; i < 3; i++) {
                 System.out.println("Please enter user_name:");
-                Scanner check_username=new Scanner(System.in);
+                String check_username = scanner.nextLine();
                 System.out.println("Please enter password:");
-                Scanner check_password=new Scanner(System.in);
+                String check_password = scanner.nextLine();
                 for (int j = 0; j < users.length; j++) {
-                    if ((check_username.equals(users[j][0]))&&(check_password.equals(users[j][1]))) {
+                    if (users[j] != null && users[j].equals(check_username) && users[j].equals(check_password)) {
                         System.out.println("login successfully!");
-                    }else{
-                        System.out.println("error");
+                        break;
+                    } else {
+                        System.out.println("Login failed!");
                     }
                 }
             }

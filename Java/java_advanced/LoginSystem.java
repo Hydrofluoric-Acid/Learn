@@ -1,11 +1,11 @@
 import java.util.Scanner;
 
-public class Test {
+public class LoginSystem {
     public static void main(String[] args) {
         User[] users = new User[7];
-        users[0] = new User("itheima", "123456");
         Login loginSystem = new Login(users);
 
+        users[0] = new User("itheima", "123456");
         loginSystem.startLogin();
     }
 }
@@ -29,8 +29,9 @@ class Login {
 
     public void startLogin() {
         Scanner scanner = new Scanner(System.in);
+
         for (int i = 0; i < 3; i++) {
-            System.out.println("Please enter user name:");
+            System.out.println("Please enter username:");
             String checkUsername = scanner.nextLine();
 
             System.out.println("Please enter password:");
@@ -39,7 +40,9 @@ class Login {
             boolean loginSuccessful = false;
 
             for (int j = 0; j < users.length; j++) {
-                if (users[j] != null && users[j].username.equals(checkUsername) && users[j].password.equals(checkPassword)) {
+                // User user = users[j];
+                if (users[j] != null && users[j].username.equals(checkUsername)
+                        && users[j].username.equals(checkPassword)) {
                     loginSuccessful = true;
                     break;
                 }
