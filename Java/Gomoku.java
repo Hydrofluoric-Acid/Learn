@@ -12,6 +12,7 @@ public class Gomoku {
 class Play {
     private int[][] arr = new int[15][15];
     private String[] index = { "1", "2", "3", "4", "5", "6", "7", "8", "9", "A", "B", "C", "D", "E", "F" };
+
     public void printChessBoard() {
         StringBuilder sb = new StringBuilder();
         sb.append("1 2 3 4 5 6 7 8 9 A B C D E F\n");
@@ -37,13 +38,32 @@ class Play {
     public void start() {
         boolean flag = true;
         Scanner sc = new Scanner(System.in);
-        while (true) {
-            String A = sc.nextLine();
-            flag = change(A, 1);
-            String B = sc.nextLine();
+        while (flag) {
+            String A = sc.nextLine().toUpperCase();
+            if (!change(A, 1)) {
+                flag = false;
+                break;// 将change方法的调用与flag的赋值分开，在flag赋值之前先进行判断。这样可以避免不必要的change方法调用，提高效率。
+            }
+            if (!flag) {
+                break;// 同样地，在处理第二个输入之前，先检查上一次的change方法是否返回了false。如果是，直接跳出循环。
+            }
+            String B = sc.nextLine().toUpperCase();
             flag = change(B, -1);
         }
     }
+
+    /*
+     * public void start() {
+     * boolean flag = true;
+     * Scanner sc = new Scanner(System.in);
+     * while (flag) {
+     * String A = sc.nextLine();
+     * flag = change(A,1);
+     * String B = sc.nextLine();
+     * flag = change(B, -1);
+     * }
+     * }
+     */
 
     public boolean change(String str, int c) {
         for (int i = 0; i < 6; i++) {
@@ -79,9 +99,9 @@ class Play {
     }
 
     public boolean judge_nums_horizontal() {
-        ArrayList<Integer> nums_horizontal = new ArrayList<>();
-        ArrayList<Integer> nums_vertical = new ArrayList<>();
         for (int start = 0; start < 11; start++) {
+            ArrayList<Integer> nums_horizontal = new ArrayList<>();
+            ArrayList<Integer> nums_vertical = new ArrayList<>();
             for (int a = 0; a < 15; a++) {
                 for (int b = start; b < start + 5; b++) {
                     nums_horizontal.add(arr[a][b]);
