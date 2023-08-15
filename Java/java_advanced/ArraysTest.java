@@ -15,7 +15,10 @@ public class ArraysTest {
                 // value = 0  1  2
                 return prices[value] * 0.8;
             }
+            //
+public static void setAll​(double[] array, IntToDoubleFunction generator)
         }); */Arrays.sort(nums);
         System.out.print(Arrays.toString(nums));
+
 }
 }

@@ -31,4 +31,4 @@ class Students implements Comparable<Students>{
                 ", age=" + age +
                 '}';
     }
-}
+}//Student类实现comparable接口，同时重写compareto方法，Arrays会根据compareTo方法返回的返回值来确定值的关系
