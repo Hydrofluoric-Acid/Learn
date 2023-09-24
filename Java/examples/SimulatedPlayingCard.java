@@ -57,8 +57,9 @@ class DealCards {
                 cards.add(pokerSuite + cardNum);
             }
         }
-        cards.add(SPECIAL_CARD1);
-        cards.add(SPECIAL_CARD2);
+        Collections.addAll(cards,SPECIAL_CARD1,SPECIAL_CARD2);
+        /* cards.add(SPECIAL_CARD1);
+        cards.add(SPECIAL_CARD2); */
         /* cards.add("大王");
         cards.add("小王"); 魔术数（Magic Number）和魔法值（Magic Value）指直接使用数字或字符串而没有明确解释其含义的情况。*/
         return cards;
