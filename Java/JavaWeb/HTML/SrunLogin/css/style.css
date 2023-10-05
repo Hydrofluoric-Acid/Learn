@@ -1,0 +1,18 @@
+body{
+    background-image: url("../img/background.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    background-position: center;
+}
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+  }
+#logo{
+    width: 189.47px;
+    height: 60px;
+    margin-top: 60px;
+    margin-left: 15%;
+}
