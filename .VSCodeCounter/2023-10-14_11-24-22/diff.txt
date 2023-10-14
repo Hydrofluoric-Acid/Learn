@@ -1,0 +1,87 @@
+Date : 2023-10-14 11:24:22
+Directory : d:\Coding\Learn
+Total : 37 files,  708 codes, 20 comments, 75 blanks, all 803 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| C        |         26 |        391 |         14 |         58 |        463 |
+| HTML     |          9 |        259 |          0 |         14 |        273 |
+| Java     |          1 |         40 |          6 |          3 |         49 |
+| CSS      |          1 |         18 |          0 |          0 |         18 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++---------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                      | files      | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                         |         37 |        708 |         20 |         75 |        803 |
+| C                                                                         |         26 |        391 |         14 |         58 |        463 |
+| C\BuildYourOwnLisp                                                        |          4 |         95 |          6 |         22 |        123 |
+| C\CourseWork                                                              |          2 |         16 |          0 |          2 |         18 |
+| C\TheCProgrammingLanguage                                                 |          8 |         94 |          6 |         11 |        111 |
+| C\TheCProgrammingLanguage\charpter1                                       |          8 |         94 |          6 |         11 |        111 |
+| C\darkhouse                                                               |          7 |         77 |          1 |         14 |         92 |
+| C\games                                                                   |          1 |         34 |          0 |          2 |         36 |
+| C\others                                                                  |          4 |         75 |          1 |          7 |         83 |
+| Java                                                                      |         10 |        332 |          6 |         17 |        355 |
+| Java\JavaWeb                                                              |          9 |        292 |          0 |         14 |        306 |
+| Java\JavaWeb\HTML                                                         |          9 |        292 |          0 |         14 |        306 |
+| Java\JavaWeb\HTML (Files)                                                 |          4 |        151 |          0 |          8 |        159 |
+| Java\JavaWeb\HTML\BoxModel                                                |          1 |         23 |          0 |          2 |         25 |
+| Java\JavaWeb\HTML\SrunLogin                                               |          2 |         33 |          0 |          1 |         34 |
+| Java\JavaWeb\HTML\SrunLogin (Files)                                       |          1 |         15 |          0 |          1 |         16 |
+| Java\JavaWeb\HTML\SrunLogin\css                                           |          1 |         18 |          0 |          0 |         18 |
+| Java\JavaWeb\HTML\XLNewsWebsite                                           |          1 |         61 |          0 |          3 |         64 |
+| Java\JavaWeb\HTML\vue.js                                                  |          1 |         24 |          0 |          0 |         24 |
+| Java\java_advanced                                                        |          1 |         40 |          6 |          3 |         49 |
+| Java\java_advanced\NetworkProgram                                         |          1 |         40 |          6 |          3 |         49 |
+| Java\java_advanced\NetworkProgram\BS                                      |          1 |         40 |          6 |          3 |         49 |
+| Web                                                                       |          1 |        -15 |          0 |          0 |        -15 |
+| Web\OnlineBookShop                                                        |          1 |        -15 |          0 |          0 |        -15 |
++---------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++---------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                  | language | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| d:\Coding\Learn\C\BuildYourOwnLisp\doge_code.c                            | C        |         17 |          0 |          2 |         19 |
+| d:\Coding\Learn\C\BuildYourOwnLisp\doge_grammar.c                         | C        |         19 |          0 |          2 |         21 |
+| d:\Coding\Learn\C\BuildYourOwnLisp\interactive.c                          | C        |         12 |          0 |          3 |         15 |
+| d:\Coding\Learn\C\BuildYourOwnLisp\parsing.c                              | C        |         47 |          6 |         15 |         68 |
+| d:\Coding\Learn\C\CourseWork\calFractions.c                               | C        |          8 |          0 |          1 |          9 |
+| d:\Coding\Learn\C\CourseWork\processDate.c                                | C        |          8 |          0 |          1 |          9 |
+| d:\Coding\Learn\C\TheCProgrammingLanguage\charpter1\MultiplicationTable.c | C        |         13 |          0 |          2 |         15 |
+| d:\Coding\Learn\C\TheCProgrammingLanguage\charpter1\arr.c                 | C        |         23 |          0 |          2 |         25 |
+| d:\Coding\Learn\C\TheCProgrammingLanguage\charpter1\const.c               | C        |          9 |          0 |          2 |         11 |
+| d:\Coding\Learn\C\TheCProgrammingLanguage\charpter1\countString.c         | C        |          8 |          0 |          1 |          9 |
+| d:\Coding\Learn\C\TheCProgrammingLanguage\charpter1\countWords.c          | C        |         21 |          0 |          2 |         23 |
+| d:\Coding\Learn\C\TheCProgrammingLanguage\charpter1\hello.c               | C        |          5 |          0 |          1 |          6 |
+| d:\Coding\Learn\C\TheCProgrammingLanguage\charpter1\output.c              | C        |          7 |          6 |          0 |         13 |
+| d:\Coding\Learn\C\TheCProgrammingLanguage\charpter1\printPrecision.c      | C        |          8 |          0 |          1 |          9 |
+| d:\Coding\Learn\C\darkhouse\array.c                                       | C        |         20 |          1 |          3 |         24 |
+| d:\Coding\Learn\C\darkhouse\char.c                                        | C        |          7 |          0 |          1 |          8 |
+| d:\Coding\Learn\C\darkhouse\floatNum.c                                    | C        |         10 |          0 |          1 |         11 |
+| d:\Coding\Learn\C\darkhouse\integer.c                                     | C        |         19 |          0 |          2 |         21 |
+| d:\Coding\Learn\C\darkhouse\randomNum.c                                   | C        |          4 |          0 |          2 |          6 |
+| d:\Coding\Learn\C\darkhouse\typeConvert.c                                 | C        |          7 |          0 |          1 |          8 |
+| d:\Coding\Learn\C\darkhouse\variable.c                                    | C        |         10 |          0 |          4 |         14 |
+| d:\Coding\Learn\C\games\ball.c                                            | C        |         34 |          0 |          2 |         36 |
+| d:\Coding\Learn\C\others\dataTable.c                                      | C        |         20 |          0 |          3 |         23 |
+| d:\Coding\Learn\C\others\maxmin.c                                         | C        |         24 |          0 |          2 |         26 |
+| d:\Coding\Learn\C\others\pointerInArray.c                                 | C        |         31 |          1 |          1 |         33 |
+| d:\Coding\Learn\C\others\replaceStr.c                                     | C        |          0 |          0 |          1 |          1 |
+| d:\Coding\Learn\Java\JavaWeb\HTML\BoxModel\index.html                     | HTML     |         23 |          0 |          2 |         25 |
+| d:\Coding\Learn\Java\JavaWeb\HTML\SrunLogin\css\style.css                 | CSS      |         18 |          0 |          0 |         18 |
+| d:\Coding\Learn\Java\JavaWeb\HTML\SrunLogin\index.html                    | HTML     |         15 |          0 |          1 |         16 |
+| d:\Coding\Learn\Java\JavaWeb\HTML\XLNewsWebsite\index.html                | HTML     |         61 |          0 |          3 |         64 |
+| d:\Coding\Learn\Java\JavaWeb\HTML\input.html                              | HTML     |         38 |          0 |          1 |         39 |
+| d:\Coding\Learn\Java\JavaWeb\HTML\jsLearn.html                            | HTML     |         33 |          0 |          4 |         37 |
+| d:\Coding\Learn\Java\JavaWeb\HTML\table.html                              | HTML     |         33 |          0 |          1 |         34 |
+| d:\Coding\Learn\Java\JavaWeb\HTML\vue.js\vue1.html                        | HTML     |         24 |          0 |          0 |         24 |
+| d:\Coding\Learn\Java\JavaWeb\HTML\window.html                             | HTML     |         47 |          0 |          2 |         49 |
+| d:\Coding\Learn\Java\java_advanced\NetworkProgram\BS\Server.java          | Java     |         40 |          6 |          3 |         49 |
+| d:\Coding\Learn\Web\OnlineBookShop\index.html                             | HTML     |        -15 |          0 |          0 |        -15 |
+| Total                                                                     |          |        708 |         20 |         75 |        803 |
++---------------------------------------------------------------------------+----------+------------+------------+------------+------------+
