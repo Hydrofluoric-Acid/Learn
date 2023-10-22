@@ -1,6 +1,9 @@
 {
     "files.associations": {
         "stdlib.h": "c",
-        "mpc.h": "c"
+        "mpc.h": "c",
+        "string.h": "c",
+        "iostream": "cpp",
+        "seqlist.h": "c"
     }
 }

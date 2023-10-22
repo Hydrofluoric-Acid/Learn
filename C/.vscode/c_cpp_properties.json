@@ -3,7 +3,8 @@
         {
             "name": "Win32",
             "includePath": [
-                "${workspaceFolder}/**"
+                "${workspaceFolder}/**",
+                "D:\\Coding\\Learn\\C\\include"
             ],
             "defines": [
                 "_DEBUG",

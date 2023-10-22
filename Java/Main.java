@@ -1,21 +1,25 @@
-import java.util.ArrayList;
+import java.util.Scanner;
 import java.util.Arrays;
-import java.util.Collections;
-import java.util.regex.Pattern;
-
-/**
- * Main
- */
-public class Main {
-  public static void main(String[] args) {
-    System.out.println(isBase64("/#Lf8Xyn/H"));
-  
-  }
-  public static boolean isBase64(String str) {
-    String base64Pattern = "^([A-Za-z0-9+/]{4})*([A-Za-z0-9+/]{4}|[A-Za-z0-9+/]{3}=|[A-Za-z0-9+/]{2}==)$";
-    return Pattern.matches(base64Pattern, str);
+public class Main{
+    public static void main(String[] args){
+        Scanner sc=new Scanner(System.in);
+        int start=0;
+        int count=0;
+        int N=sc.nextInt();
+        int C=sc.nextInt();
+        int[] nums=new int[N];
+        for(int i=0;i<N;i++){
+            nums[i]=sc.nextInt();
+        }
+        Arrays.sort(nums);
+        for(int i=start;i<N;i++){
+            for(int j=start+1;j<N;j++){
+                if(nums[i]-nums[j]==C){
+                    count+=1;
+                }
+            }
+            start+=1;
+        }
+        System.out.println(count);
+    }
 }
-
-  }
-
-  

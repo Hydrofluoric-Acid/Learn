@@ -24,6 +24,11 @@ int main(){
     for(p=a+N-1;p>=a;p--){
         printf("%d,",*p);
     }
+    /* int *pA=&A[0][0][0];                      取第一个元素的地址
+    int *pA=(int*)A[0];                     类型强制转换
+    int *pA=(int*)A; 类型强制转换
+    int* pA=A[0][0]       三维数组中这几个指针等价                        
+    */
     return 0;
 }
 void test(int a[]){
