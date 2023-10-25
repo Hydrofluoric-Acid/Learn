@@ -20,6 +20,7 @@ public class Main{
             }
             start+=1;
         }
+        sc.close();
         System.out.println(count);
     }
 }

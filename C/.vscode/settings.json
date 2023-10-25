@@ -4,6 +4,17 @@
         "mpc.h": "c",
         "string.h": "c",
         "iostream": "cpp",
-        "seqlist.h": "c"
+        "seqlist.h": "c",
+        "atomic": "c",
+        "*.tcc": "c",
+        "cmath": "c",
+        "optional": "c",
+        "algorithm": "c",
+        "fstream": "c",
+        "limits": "c",
+        "unordered_map": "c",
+        "streambuf": "c",
+        "tuple": "c",
+        "type_traits": "c"
     }
 }
