@@ -4,7 +4,7 @@
             "name": "Win32",
             "includePath": [
                 "${workspaceFolder}/**",
-                "D:\\Coding\\Learn\\C\\include"
+                "D:\\Coding\\Learn\\C&CPP\\include"
             ],
             "defines": [
                 "_DEBUG",

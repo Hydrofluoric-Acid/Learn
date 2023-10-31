@@ -1,11 +1,13 @@
 {
     "version": "2.0.0",
     "command": "g++",
-    "args": ["-g", "${file}", "-o", "D:/Coding/Learn/C/exe/${fileBasenameNoExtension}.exe",
+    "args": ["-g", "${file}", "-o", "D:/Coding/Learn/C&CPP/exe/${fileBasenameNoExtension}.exe",
     "-I",
-"D:\\Coding\\Learn\\C\\include",
-"D:\\Coding\\Learn\\C\\include\\SeqList.c",
-"D:\\Coding\\Learn\\C\\include\\LinkList.c"
+"D:\\Coding\\Learn\\C&CPP\\include",
+"D:\\Coding\\Learn\\C&CPP\\include\\SeqList.c",
+"D:\\Coding\\Learn\\C&CPP\\include\\LinkList.c",
+"D:\\Coding\\Learn\\C&CPP\\include\\Sqqueue.c",
+"D:\\Coding\\Learn\\C&CPP\\include\\SqStack.c"
     ], // 编译命令参数
     "problemMatcher": {
         "owner": "cpp",
