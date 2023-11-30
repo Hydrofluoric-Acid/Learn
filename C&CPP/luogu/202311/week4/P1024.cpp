@@ -10,7 +10,7 @@ void gen(double L,double R){
         mid=(l+r)/2;
         /* if(fabs(f(mid))<1e-4){
             printf("%.2lf",mid);
-        }else */ if(f(mid)*f(R)>0){
+        }else */ if(f(mid)*f(l)<0){
             r=mid;
         }else{
             l=mid;
