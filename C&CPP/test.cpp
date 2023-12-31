@@ -1,16 +1,9 @@
 #include<bits/stdc++.h>
+#define f(x) x*(x+2)
 using namespace std;
 
-int gcd(int a,int b){
-    if(a%b==0)return b;
-    return gcd(b,a%b);
-}
-int mult(int a,int b){
-    return (a*b)/gcd(a,b);
-}
-
-int main() {
-    cout<<gcd(400,50);
-    cout<<mult(400,3);
+int main(){
+    int a=1,b=2;
+    cout<<f((6+a+b));
     return 0;
 }

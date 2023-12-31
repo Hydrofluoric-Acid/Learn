@@ -1,32 +1,31 @@
+import java.math.BigInteger;
 import java.util.Scanner;
-import java.io.BufferedReader;
-import java.io.InputStreamReader;
-import java.util.Arrays;
-public class Main{
-    public static void main(String[] args) throws Exception{
-        String s=print(0);
-        System.out.println(s);
-    }
-    public static String print(int n) {
-        if (true) {
-            String s = "646e6365796367353b3737363261353433343334643a606066336433676766643b663760637f".replace(" ", "");
-            byte[] baKeyword = new byte[s.length() / 2];
-            for (int i = 0; i < baKeyword.length; i++) {
-                try {
-                    baKeyword[i] = (byte) ((Integer.parseInt(s.substring(i * 2, (i * 2) + 2), 16) & 255) ^ n);
-                } catch (Exception e) {
-                    e.printStackTrace();
-                }
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int n = sc.nextInt();
+        BigInteger sum = BigInteger.ZERO;
+        for (int i = 1; i <= n; i++) {
+            BigInteger t = BigInteger.ZERO;
+            for (int j = 1; j <= i; j++) {
+                BigInteger gcd = BigInteger.valueOf(gcd(i, j));
+                BigInteger lcm = BigInteger.valueOf(lcm(i, j));
+                BigInteger a = gcd.multiply(lcm).add(BigInteger.valueOf(j));
+                t = t.add(a);
             }
-            try {
-                s = new String(baKeyword, "gbk");
-                new String();
-                return s;
-            } catch (Exception e1) {
-                e1.printStackTrace();
-                return s;
-            }
+            BigInteger b = BigInteger.valueOf(i).multiply(BigInteger.valueOf(i));
+            t = t.subtract(b);
+            sum = sum.add(t);
         }
-        return null;
+        System.out.println(sum);
+    }
+
+    public static int gcd(int a, int b) {
+        return b == 0 ? a : gcd(b, a % b);
+    }
+
+    public static int lcm(int a, int b) {
+        return a / gcd(a, b) * b;
     }
 }

@@ -1,30 +1,29 @@
 #include<bits/stdc++.h>
 using namespace std;
-int nowtime,maxtime,sum,ans,maxdeep,s[4],a[21];
-void dfs(int x){
+int a[4],b[21],maxtime,nowtime,ans=0,sum=0;
+void dfs(int maxdeep,int x){
     if(x>maxdeep){
         maxtime=max(maxtime,nowtime);
         return;
     }
-    if(nowtime+a[x]<=sum/2){
-        nowtime+=a[x];
-        dfs(x+1);
-        nowtime-=a[x];
+    if(b[x]+nowtime<=sum/2){
+        nowtime+=b[x];
+        dfs(maxdeep,x+1);
+        nowtime-=b[x];
     }
-    dfs(x+1);
+    dfs(maxdeep,x+1);
 }
 int main(){
-    cin>>s[0]>>s[1]>>s[2]>>s[3];
+    cin>>a[0]>>a[1]>>a[2]>>a[3];
     for(int i=0;i<4;i++){
-        nowtime=0;
-        maxdeep=s[i];
-        sum=0;
-        for(int j=1;j<=s[i];j++){
-            cin>>a[j];
-            sum+=a[j];
-        }
         maxtime=0;
-        dfs(1);
+        sum=0;
+        for(int j=1;j<=a[i];j++){
+            cin>>b[j];
+            sum+=b[j];
+        }
+        nowtime=0;
+        dfs(a[i],1);
         ans+=(sum-maxtime);
     }
     cout<<ans;
