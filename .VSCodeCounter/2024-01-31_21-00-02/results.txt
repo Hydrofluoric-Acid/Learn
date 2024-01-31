@@ -1,0 +1,592 @@
+Date : 2024-01-31 21:00:02
+Directory : d:\Coding\Learn
+Total : 450 files,  12383 codes, 2102 comments, 1139 blanks, all 15624 lines
+
+Languages
++-----------------+------------+------------+------------+------------+------------+
+| language        | files      | code       | comment    | blank      | total      |
++-----------------+------------+------------+------------+------------+------------+
+| C++             |        274 |      7,321 |      1,473 |        371 |      9,165 |
+| Java            |        104 |      2,840 |        463 |        489 |      3,792 |
+| C               |         52 |      1,550 |         63 |        176 |      1,789 |
+| Markdown        |          8 |        527 |          0 |         80 |        607 |
+| HTML            |          3 |         53 |          0 |          3 |         56 |
+| Makefile        |          3 |         36 |        101 |         19 |        156 |
+| XML             |          4 |         35 |          0 |          0 |         35 |
+| CSS             |          1 |         18 |          0 |          0 |         18 |
+| Java Properties |          1 |          3 |          2 |          1 |          6 |
++-----------------+------------+------------+------------+------------+------------+
+
+Directories
++------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                           | files      | code       | comment    | blank      | total      |
++------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                              |        450 |     12,383 |      2,102 |      1,139 |     15,624 |
+| . (Files)                                                                                      |          3 |         30 |          0 |          2 |         32 |
+| C&CPP                                                                                          |        336 |      8,908 |      1,626 |        573 |     11,107 |
+| C&CPP (Files)                                                                                  |          5 |        276 |          0 |          7 |        283 |
+| C&CPP\CodeForces                                                                               |          6 |        175 |         11 |          6 |        192 |
+| C&CPP\CodeForces\Good Bye 2023                                                                 |          1 |         28 |         10 |          4 |         42 |
+| C&CPP\CodeForces\Round159                                                                      |          2 |         43 |          1 |          0 |         44 |
+| C&CPP\CodeForces\Round913                                                                      |          3 |        104 |          0 |          2 |        106 |
+| C&CPP\IntroductionToTheAlgorithmContestClassic                                                 |          1 |         44 |          1 |          0 |         45 |
+| C&CPP\IntroductionToTheAlgorithmContestClassic\charpter7                                       |          1 |         44 |          1 |          0 |         45 |
+| C&CPP\contest                                                                                  |         33 |        881 |        114 |         25 |      1,020 |
+| C&CPP\contest\NCUOJ                                                                            |         23 |        681 |         63 |         19 |        763 |
+| C&CPP\contest\NCUOJ\20231210                                                                   |          4 |         65 |         28 |          3 |         96 |
+| C&CPP\contest\NCUOJ\20231217                                                                   |          9 |        236 |         34 |          6 |        276 |
+| C&CPP\contest\NCUOJ\Nothing                                                                    |         10 |        380 |          1 |         10 |        391 |
+| C&CPP\contest\nowcoder                                                                         |         10 |        200 |         51 |          6 |        257 |
+| C&CPP\contest\nowcoder (Files)                                                                 |          5 |        107 |         14 |          4 |        125 |
+| C&CPP\contest\nowcoder\20231117                                                                |          1 |         17 |          0 |          0 |         17 |
+| C&CPP\contest\nowcoder\20231124                                                                |          2 |         35 |         37 |          1 |         73 |
+| C&CPP\contest\nowcoder\NewbieMonthlyContest                                                    |          2 |         41 |          0 |          1 |         42 |
+| C&CPP\contest\nowcoder\NewbieMonthlyContest\20231201                                           |          2 |         41 |          0 |          1 |         42 |
+| C&CPP\include                                                                                  |          8 |        324 |          0 |         30 |        354 |
+| C&CPP\luogu                                                                                    |        190 |      4,987 |      1,276 |        227 |      6,490 |
+| C&CPP\luogu\2023                                                                               |        142 |      3,420 |      1,067 |        210 |      4,697 |
+| C&CPP\luogu\2023\202310                                                                        |         29 |        670 |        276 |         83 |      1,029 |
+| C&CPP\luogu\2023\202311                                                                        |         82 |      1,977 |        619 |        102 |      2,698 |
+| C&CPP\luogu\2023\202311\week1                                                                  |         39 |        874 |        194 |         18 |      1,086 |
+| C&CPP\luogu\2023\202311\week2                                                                  |          9 |        230 |         47 |         29 |        306 |
+| C&CPP\luogu\2023\202311\week3                                                                  |         26 |        646 |        313 |         51 |      1,010 |
+| C&CPP\luogu\2023\202311\week4                                                                  |          8 |        227 |         65 |          4 |        296 |
+| C&CPP\luogu\2023\202312                                                                        |         31 |        773 |        172 |         25 |        970 |
+| C&CPP\luogu\2023\202312\week1                                                                  |         15 |        402 |         20 |          9 |        431 |
+| C&CPP\luogu\2023\202312\week2                                                                  |          2 |         30 |         54 |         15 |         99 |
+| C&CPP\luogu\2023\202312\week3                                                                  |         14 |        341 |         98 |          1 |        440 |
+| C&CPP\luogu\2024                                                                               |         33 |      1,094 |         79 |          7 |      1,180 |
+| C&CPP\luogu\2024\202401                                                                        |         33 |      1,094 |         79 |          7 |      1,180 |
+| C&CPP\luogu\dp                                                                                 |         15 |        473 |        130 |         10 |        613 |
+| C&CPP\others                                                                                   |         93 |      2,221 |        224 |        278 |      2,723 |
+| C&CPP\others (Files)                                                                           |         13 |        285 |         17 |         30 |        332 |
+| C&CPP\others\BuildYourOwnLisp                                                                  |          4 |         95 |          6 |         22 |        123 |
+| C&CPP\others\CourseWork                                                                        |         17 |        455 |         30 |         58 |        543 |
+| C&CPP\others\CourseWork (Files)                                                                |         15 |        385 |          8 |         39 |        432 |
+| C&CPP\others\CourseWork\DataStructures                                                         |          2 |         70 |         22 |         19 |        111 |
+| C&CPP\others\DataStructures                                                                    |          5 |        144 |         23 |          8 |        175 |
+| C&CPP\others\DataStructures\Graph                                                              |          1 |         43 |         23 |          0 |         66 |
+| C&CPP\others\DataStructures\Tree                                                               |          3 |         91 |          0 |          7 |         98 |
+| C&CPP\others\DataStructures\Tree (Files)                                                       |          2 |         72 |          0 |          7 |         79 |
+| C&CPP\others\DataStructures\Tree\DFS                                                           |          1 |         19 |          0 |          0 |         19 |
+| C&CPP\others\DataStructures\vector                                                             |          1 |         10 |          0 |          1 |         11 |
+| C&CPP\others\PTA                                                                               |          6 |        191 |         28 |         15 |        234 |
+| C&CPP\others\Project                                                                           |         27 |        722 |        108 |        110 |        940 |
+| C&CPP\others\Project\OpenBox                                                                   |          4 |         37 |         23 |          4 |         64 |
+| C&CPP\others\Project\Whale Market                                                              |         13 |        199 |         62 |         40 |        301 |
+| C&CPP\others\Project\Whale Market (Files)                                                      |          2 |         48 |         59 |         21 |        128 |
+| C&CPP\others\Project\Whale Market\.idea                                                        |          4 |         35 |          0 |          0 |         35 |
+| C&CPP\others\Project\Whale Market\include                                                      |          4 |         55 |          2 |         12 |         69 |
+| C&CPP\others\Project\Whale Market\include (Files)                                              |          1 |          9 |          0 |          3 |         12 |
+| C&CPP\others\Project\Whale Market\include\tools                                                |          3 |         46 |          2 |          9 |         57 |
+| C&CPP\others\Project\Whale Market\src                                                          |          3 |         61 |          1 |          7 |         69 |
+| C&CPP\others\Project\Whale Market\src (Files)                                                  |          1 |         16 |          0 |          2 |         18 |
+| C&CPP\others\Project\Whale Market\src\tools                                                    |          2 |         45 |          1 |          5 |         51 |
+| C&CPP\others\Project\md5                                                                       |          4 |         52 |         23 |          8 |         83 |
+| C&CPP\others\Project\md5-master                                                                |          6 |        434 |          0 |         58 |        492 |
+| C&CPP\others\Project\md5-master (Files)                                                        |          4 |        247 |          0 |         37 |        284 |
+| C&CPP\others\Project\md5-master\include                                                        |          2 |        187 |          0 |         21 |        208 |
+| C&CPP\others\TheCProgrammingLanguage                                                           |          8 |         94 |          6 |         11 |        111 |
+| C&CPP\others\TheCProgrammingLanguage\charpter1                                                 |          8 |         94 |          6 |         11 |        111 |
+| C&CPP\others\darkhouse                                                                         |         12 |        201 |          6 |         22 |        229 |
+| C&CPP\others\darkhouse (Files)                                                                 |          7 |         77 |          1 |         14 |         92 |
+| C&CPP\others\darkhouse\examples                                                                |          5 |        124 |          5 |          8 |        137 |
+| C&CPP\others\games                                                                             |          1 |         34 |          0 |          2 |         36 |
+| CPEditor                                                                                       |         10 |        298 |         48 |          9 |        355 |
+| CPEditor\contest                                                                               |          8 |        265 |         48 |          6 |        319 |
+| CPEditor\template                                                                              |          2 |         33 |          0 |          3 |         36 |
+| Java                                                                                           |         98 |      3,005 |        428 |        530 |      3,963 |
+| Java (Files)                                                                                   |          6 |        342 |          0 |         66 |        408 |
+| Java\JavaWeb                                                                                   |          3 |         56 |          0 |          3 |         59 |
+| Java\JavaWeb\HTML                                                                              |          3 |         56 |          0 |          3 |         59 |
+| Java\JavaWeb\HTML\BoxModel                                                                     |          1 |         23 |          0 |          2 |         25 |
+| Java\JavaWeb\HTML\SrunLogin                                                                    |          2 |         33 |          0 |          1 |         34 |
+| Java\JavaWeb\HTML\SrunLogin (Files)                                                            |          1 |         15 |          0 |          1 |         16 |
+| Java\JavaWeb\HTML\SrunLogin\css                                                                |          1 |         18 |          0 |          0 |         18 |
+| Java\basic_syntax                                                                              |         31 |        741 |        180 |        150 |      1,071 |
+| Java\basic_syntax (Files)                                                                      |          2 |         55 |          0 |         13 |         68 |
+| Java\basic_syntax\ArrayLearn                                                                   |          1 |         35 |          8 |          5 |         48 |
+| Java\basic_syntax\DataTypesAndOperators                                                        |          5 |        105 |         23 |         28 |        156 |
+| Java\basic_syntax\FlowControl                                                                  |          5 |         79 |         28 |         18 |        125 |
+| Java\basic_syntax\Function                                                                     |          1 |         81 |          1 |         10 |         92 |
+| Java\basic_syntax\ProgramCase                                                                  |          7 |        202 |         69 |         30 |        301 |
+| Java\basic_syntax\data types and operators                                                     |          5 |        105 |         23 |         28 |        156 |
+| Java\basic_syntax\flow control                                                                 |          5 |         79 |         28 |         18 |        125 |
+| Java\examples                                                                                  |         18 |        887 |         70 |        140 |      1,097 |
+| Java\java_advanced                                                                             |         38 |        925 |        178 |        161 |      1,264 |
+| Java\java_advanced (Files)                                                                     |          4 |         76 |          3 |         11 |         90 |
+| Java\java_advanced\AWT                                                                         |          2 |         25 |          0 |          5 |         30 |
+| Java\java_advanced\Mltithreading                                                               |          3 |        184 |         38 |         27 |        249 |
+| Java\java_advanced\NetworkProgram                                                              |          7 |        120 |          5 |         22 |        147 |
+| Java\java_advanced\NetworkProgram (Files)                                                      |          1 |         14 |          5 |          3 |         22 |
+| Java\java_advanced\NetworkProgram\TCP                                                          |          2 |         31 |          0 |          6 |         37 |
+| Java\java_advanced\NetworkProgram\UDP                                                          |          4 |         75 |          0 |         13 |         88 |
+| Java\java_advanced\class                                                                       |          8 |        211 |         40 |         57 |        308 |
+| Java\java_advanced\collection                                                                  |          6 |         96 |         79 |         16 |        191 |
+| Java\java_advanced\generic                                                                     |          3 |         42 |          1 |          9 |         52 |
+| Java\java_advanced\io                                                                          |          5 |        171 |         12 |         14 |        197 |
+| Java\thinking_in_java                                                                          |          2 |         54 |          0 |         10 |         64 |
+| Java\thinking_in_java\polymorphism                                                             |          2 |         54 |          0 |         10 |         64 |
+| Note                                                                                           |          2 |        127 |          0 |         25 |        152 |
+| Note (Files)                                                                                   |          1 |         69 |          0 |         15 |         84 |
+| Note\algorithm                                                                                 |          1 |         58 |          0 |         10 |         68 |
+| Web                                                                                            |          1 |         15 |          0 |          0 |         15 |
+| Web\OnlineBookShop                                                                             |          1 |         15 |          0 |          0 |         15 |
++------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++------------------------------------------------------------------------------------------------+-----------------+------------+------------+------------+------------+
+| filename                                                                                       | language        | code       | comment    | blank      | total      |
++------------------------------------------------------------------------------------------------+-----------------+------------+------------+------------+------------+
+| d:\Coding\Learn\C&CPP\CodeForces\Good Bye 2023\B.cpp                                           | C++             |         28 |         10 |          4 |         42 |
+| d:\Coding\Learn\C&CPP\CodeForces\Round159\A.cpp                                                | C++             |         17 |          1 |          0 |         18 |
+| d:\Coding\Learn\C&CPP\CodeForces\Round159\C.cpp                                                | C++             |         26 |          0 |          0 |         26 |
+| d:\Coding\Learn\C&CPP\CodeForces\Round913\A.cpp                                                | C++             |         17 |          0 |          0 |         17 |
+| d:\Coding\Learn\C&CPP\CodeForces\Round913\B.cpp                                                | C++             |         40 |          0 |          2 |         42 |
+| d:\Coding\Learn\C&CPP\CodeForces\Round913\C.cpp                                                | C++             |         47 |          0 |          0 |         47 |
+| d:\Coding\Learn\C&CPP\IntroductionToTheAlgorithmContestClassic\charpter7\print_permutation.cpp | C++             |         44 |          1 |          0 |         45 |
+| d:\Coding\Learn\C&CPP\contest\NCUOJ\20231210\README.md                                         | Markdown        |          1 |          0 |          0 |          1 |
+| d:\Coding\Learn\C&CPP\contest\NCUOJ\20231210\b.cpp                                             | C++             |         22 |          0 |          1 |         23 |
+| d:\Coding\Learn\C&CPP\contest\NCUOJ\20231210\c.cpp                                             | C++             |         26 |          0 |          2 |         28 |
+| d:\Coding\Learn\C&CPP\contest\NCUOJ\20231210\d.cpp                                             | C++             |         16 |         28 |          0 |         44 |
+| d:\Coding\Learn\C&CPP\contest\NCUOJ\20231217\README.md                                         | Markdown        |          1 |          0 |          0 |          1 |
+| d:\Coding\Learn\C&CPP\contest\NCUOJ\20231217\a.cpp                                             | C++             |         37 |          9 |          1 |         47 |
+| d:\Coding\Learn\C&CPP\contest\NCUOJ\20231217\a1.cpp                                            | C++             |         37 |          9 |          1 |         47 |
+| d:\Coding\Learn\C&CPP\contest\NCUOJ\20231217\d.cpp                                             | C++             |         10 |          0 |          0 |         10 |
+| d:\Coding\Learn\C&CPP\contest\NCUOJ\20231217\f.cpp                                             | C++             |         63 |          6 |          2 |         71 |
+| d:\Coding\Learn\C&CPP\contest\NCUOJ\20231217\g.cpp                                             | C++             |         29 |         10 |          1 |         40 |
+| d:\Coding\Learn\C&CPP\contest\NCUOJ\20231217\h.cpp                                             | C++             |         24 |          0 |          0 |         24 |
+| d:\Coding\Learn\C&CPP\contest\NCUOJ\20231217\k.cpp                                             | C++             |         13 |          0 |          0 |         13 |
+| d:\Coding\Learn\C&CPP\contest\NCUOJ\20231217\test.cpp                                          | C++             |         22 |          0 |          1 |         23 |
+| d:\Coding\Learn\C&CPP\contest\NCUOJ\Nothing\P1001.cpp                                          | C++             |         32 |          0 |          0 |         32 |
+| d:\Coding\Learn\C&CPP\contest\NCUOJ\Nothing\P1021.cpp                                          | C++             |         64 |          0 |          0 |         64 |
+| d:\Coding\Learn\C&CPP\contest\NCUOJ\Nothing\P11.cpp                                            | C++             |         36 |          0 |          3 |         39 |
+| d:\Coding\Learn\C&CPP\contest\NCUOJ\Nothing\P11.java                                           | Java            |         13 |          0 |          3 |         16 |
+| d:\Coding\Learn\C&CPP\contest\NCUOJ\Nothing\P1539A.cpp                                         | C++             |         25 |          0 |          1 |         26 |
+| d:\Coding\Learn\C&CPP\contest\NCUOJ\Nothing\P2021102101.cpp                                    | C++             |         55 |          0 |          0 |         55 |
+| d:\Coding\Learn\C&CPP\contest\NCUOJ\Nothing\P2023051701.cpp                                    | C++             |         23 |          0 |          0 |         23 |
+| d:\Coding\Learn\C&CPP\contest\NCUOJ\Nothing\P255.cpp                                           | C++             |         98 |          1 |          1 |        100 |
+| d:\Coding\Learn\C&CPP\contest\NCUOJ\Nothing\P4.cpp                                             | C++             |         27 |          0 |          0 |         27 |
+| d:\Coding\Learn\C&CPP\contest\NCUOJ\Nothing\c.java                                             | Java            |          7 |          0 |          2 |          9 |
+| d:\Coding\Learn\C&CPP\contest\nowcoder\20231117\q1.cpp                                         | C++             |         17 |          0 |          0 |         17 |
+| d:\Coding\Learn\C&CPP\contest\nowcoder\20231124\p2.cpp                                         | C++             |         16 |         22 |          1 |         39 |
+| d:\Coding\Learn\C&CPP\contest\nowcoder\20231124\q1.cpp                                         | C++             |         19 |         15 |          0 |         34 |
+| d:\Coding\Learn\C&CPP\contest\nowcoder\NC16422.cpp                                             | C++             |         38 |          0 |          0 |         38 |
+| d:\Coding\Learn\C&CPP\contest\nowcoder\NC16538.cpp                                             | C++             |         15 |         14 |          0 |         29 |
+| d:\Coding\Learn\C&CPP\contest\nowcoder\NC16749.cpp                                             | C++             |         11 |          0 |          2 |         13 |
+| d:\Coding\Learn\C&CPP\contest\nowcoder\NC50562.cpp                                             | C++             |         31 |          0 |          1 |         32 |
+| d:\Coding\Learn\C&CPP\contest\nowcoder\NewbieMonthlyContest\20231201\A.cpp                     | C++             |         19 |          0 |          0 |         19 |
+| d:\Coding\Learn\C&CPP\contest\nowcoder\NewbieMonthlyContest\20231201\B.cpp                     | C++             |         22 |          0 |          1 |         23 |
+| d:\Coding\Learn\C&CPP\contest\nowcoder\[USACO 2007 Feb S]The Cow Lexicon.cpp                   | C++             |         12 |          0 |          1 |         13 |
+| d:\Coding\Learn\C&CPP\include\LinkList.c                                                       | C               |         89 |          0 |          8 |         97 |
+| d:\Coding\Learn\C&CPP\include\LinkList.h                                                       | C++             |         16 |          0 |          1 |         17 |
+| d:\Coding\Learn\C&CPP\include\SeqList.c                                                        | C               |         84 |          0 |          7 |         91 |
+| d:\Coding\Learn\C&CPP\include\SeqList.h                                                        | C++             |         22 |          0 |          5 |         27 |
+| d:\Coding\Learn\C&CPP\include\SqStack.c                                                        | C               |         48 |          0 |          5 |         53 |
+| d:\Coding\Learn\C&CPP\include\SqStack.h                                                        | C++             |         16 |          0 |          2 |         18 |
+| d:\Coding\Learn\C&CPP\include\Sqqueue.c                                                        | C               |         34 |          0 |          0 |         34 |
+| d:\Coding\Learn\C&CPP\include\Sqqueue.h                                                        | C++             |         15 |          0 |          2 |         17 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202310\1009.cpp                                               | C++             |         12 |          9 |          0 |         21 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202310\1423.cpp                                               | C++             |         14 |          0 |          1 |         15 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202310\2141.cpp                                               | C++             |         26 |          9 |          0 |         35 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202310\5722.cpp                                               | C++             |         11 |          0 |          0 |         11 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202310\5723.cpp                                               | C++             |         26 |          0 |          3 |         29 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202310\P1003.cpp                                              | C++             |         17 |          0 |          0 |         17 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202310\P1003.java                                             | Java            |         24 |          0 |          1 |         25 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202310\P1014.cpp                                              | C++             |         30 |          0 |          2 |         32 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202310\P1075.cpp                                              | C++             |         12 |         22 |          0 |         34 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202310\P1102.cpp                                              | C++             |         19 |         45 |          3 |         67 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202310\P1102.java                                             | Java            |         11 |         37 |          2 |         50 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202310\P1208.cpp                                              | C++             |         23 |         43 |          3 |         69 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202310\P1420.cpp                                              | C++             |         21 |          0 |          0 |         21 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202310\P1427.cpp                                              | C++             |         18 |          0 |          0 |         18 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202310\P1720.cpp                                              | C++             |         17 |          0 |          0 |         17 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202310\P2141.cpp                                              | C++             |         10 |          0 |          1 |         11 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202310\P2240.cpp                                              | C++             |         30 |          6 |          1 |         37 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202310\P2669.cpp                                              | C++             |         15 |          0 |          0 |         15 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202310\P2695.cpp                                              | C++             |         32 |         16 |          8 |         56 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202310\P3613.cpp                                              | C++             |         22 |          0 |          0 |         22 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202310\P4956.cpp                                              | C++             |         14 |          0 |          0 |         14 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202310\P5594.cpp                                              | C++             |         19 |          0 |          1 |         20 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202310\P5725.cpp                                              | C++             |         24 |          0 |          0 |         24 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202310\P5726.cpp                                              | C++             |         18 |          0 |          0 |         18 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202310\P5727.cpp                                              | C++             |         24 |          0 |          0 |         24 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202310\P5728.cpp                                              | C++             |         25 |          3 |          2 |         30 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202310\P5729.cpp                                              | C++             |         34 |         86 |         51 |        171 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202310\P5730.cpp                                              | C++             |         98 |          0 |          3 |        101 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202310\p1428.cpp                                              | C++             |         24 |          0 |          1 |         25 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202311\week1\P1009.cpp                                        | C++             |          4 |          0 |          1 |          5 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202311\week1\P1009.java                                       | Java            |         10 |          0 |          2 |         12 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202311\week1\P1059.cpp                                        | C++             |         23 |          0 |          0 |         23 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202311\week1\P1093.cpp                                        | C++             |         31 |          0 |          1 |         32 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202311\week1\P1125.cpp                                        | C++             |         25 |          0 |          0 |         25 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202311\week1\P1177.cpp                                        | C++             |         17 |          0 |          0 |         17 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202311\week1\P1217.cpp                                        | C++             |        101 |          0 |          2 |        103 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202311\week1\P1271.cpp                                        | C++             |         10 |         19 |          0 |         29 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202311\week1\P1303.cpp                                        | C++             |         33 |          0 |          0 |         33 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202311\week1\P1303.java                                       | Java            |          7 |          0 |          1 |          8 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202311\week1\P1304.cpp                                        | C++             |         30 |          0 |          0 |         30 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202311\week1\P1554.cpp                                        | C++             |         19 |          0 |          0 |         19 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202311\week1\P1563.cpp                                        | C++             |         30 |         28 |          0 |         58 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202311\week1\P1601.cpp                                        | C++             |         25 |          0 |          0 |         25 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202311\week1\P1601.java                                       | Java            |          7 |          0 |          0 |          7 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202311\week1\P1614.cpp                                        | C++             |         19 |          0 |          0 |         19 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202311\week1\P1781.cpp                                        | C++             |         22 |          0 |          0 |         22 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202311\week1\P1914.cpp                                        | C++             |         14 |          0 |          1 |         15 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202311\week1\P1923.cpp                                        | C++             |         12 |         47 |          0 |         59 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202311\week1\P1957.cpp                                        | C++             |          0 |         34 |          4 |         38 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202311\week1\P2415.cpp                                        | C++             |         12 |          0 |          0 |         12 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202311\week1\P2550.cpp                                        | C++             |         26 |          0 |          0 |         26 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202311\week1\P2615.cpp                                        | C++             |         32 |         62 |          0 |         94 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202311\week1\P2670.cpp                                        | C++             |         36 |          0 |          0 |         36 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202311\week1\P4924.cpp                                        | C++             |         55 |          0 |          1 |         56 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202311\week1\P5461.cpp                                        | C++             |         23 |          0 |          0 |         23 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202311\week1\P5731.cpp                                        | C++             |         27 |          0 |          2 |         29 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202311\week1\P5732.cpp                                        | C++             |         25 |          0 |          0 |         25 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202311\week1\P5733.cpp                                        | C++             |         12 |          0 |          1 |         13 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202311\week1\P5735.cpp                                        | C++             |         10 |          0 |          0 |         10 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202311\week1\P5736.cpp                                        | C++             |         26 |          0 |          0 |         26 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202311\week1\P5737.cpp                                        | C++             |         24 |          0 |          0 |         24 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202311\week1\P5738.cpp                                        | C++             |         23 |          0 |          0 |         23 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202311\week1\P5739.cpp                                        | C++             |          9 |          0 |          0 |          9 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202311\week1\P5740.cpp                                        | C++             |         19 |          0 |          0 |         19 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202311\week1\P5741.cpp                                        | C++             |         28 |          0 |          1 |         29 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202311\week1\P5742.cpp                                        | C++             |         21 |          0 |          0 |         21 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202311\week1\P5743.cpp                                        | C++             |          8 |          4 |          1 |         13 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202311\week1\P5744.cpp                                        | C++             |         19 |          0 |          0 |         19 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202311\week2\P1008.cpp                                        | C++             |         27 |          2 |          0 |         29 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202311\week2\P1012.cpp                                        | C++             |         17 |          0 |          1 |         18 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202311\week2\P1068.cpp                                        | C++             |         32 |          0 |          0 |         32 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202311\week2\P1104.cpp                                        | C++             |         34 |          0 |          0 |         34 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202311\week2\P1116.cpp                                        | C++             |         21 |          0 |          0 |         21 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202311\week2\P1152.cpp                                        | C++             |         24 |         24 |         28 |         76 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202311\week2\P1618.cpp                                        | C++             |         32 |         21 |          0 |         53 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202311\week2\P2676.cpp                                        | C++             |         16 |          0 |          0 |         16 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202311\week2\P5143.cpp                                        | C++             |         27 |          0 |          0 |         27 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202311\week3\NP1090.cpp                                       | C++             |         21 |         41 |         29 |         91 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202311\week3\NP1106.cpp                                       | C++             |         33 |          0 |          1 |         34 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202311\week3\NP1149.cpp                                       | C++             |         21 |          0 |          0 |         21 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202311\week3\NP3654.cpp                                       | C++             |         40 |          0 |          1 |         41 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202311\week3\P1028.cpp                                        | C++             |         21 |         40 |          3 |         64 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202311\week3\P1036.cpp                                        | C++             |         26 |         24 |          1 |         51 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202311\week3\P1088.cpp                                        | C++             |         19 |          0 |          0 |         19 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202311\week3\P1157.cpp                                        | C++             |         22 |          0 |          0 |         22 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202311\week3\P1223.cpp                                        | C++             |         27 |          0 |          1 |         28 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202311\week3\P1225.cpp                                        | C++             |         28 |          5 |          2 |         35 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202311\week3\P1225.java                                       | Java            |         21 |          0 |          1 |         22 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202311\week3\P1449.cpp                                        | C++             |         29 |         41 |          0 |         70 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202311\week3\P1464.cpp                                        | C++             |         21 |          0 |          0 |         21 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202311\week3\P1478.cpp                                        | C++             |         25 |          0 |          0 |         25 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202311\week3\P1706.cpp                                        | C++             |         18 |          0 |          0 |         18 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202311\week3\P1803.cpp                                        | C++             |         25 |          0 |          1 |         26 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202311\week3\P1824.cpp                                        | C++             |         28 |          0 |          0 |         28 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202311\week3\P1873.cpp                                        | C++             |         29 |          0 |          0 |         29 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202311\week3\P1996.cpp                                        | C++             |         24 |         36 |          4 |         64 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202311\week3\P2023.cpp                                        | C++             |         30 |          0 |          3 |         33 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202311\week3\P2249.cpp                                        | C++             |         16 |         54 |          2 |         72 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202311\week3\P3156.cpp                                        | C++             |         16 |          0 |          0 |         16 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202311\week3\P3392.cpp                                        | C++             |         44 |          6 |          1 |         51 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202311\week3\P3613.cpp                                        | C++             |         18 |         66 |          1 |         85 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202311\week3\P3817.cpp                                        | C++             |         17 |          0 |          0 |         17 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202311\week3\Uva673.cpp                                       | C++             |         27 |          0 |          0 |         27 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202311\week4\NP1219.cpp                                       | C++             |         30 |          0 |          1 |         31 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202311\week4\NP1928.cpp                                       | C++             |         22 |         30 |          0 |         52 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202311\week4\NP2392.cpp                                       | C++             |         31 |          0 |          0 |         31 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202311\week4\P1010.cpp                                        | C++             |         26 |          0 |          2 |         28 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202311\week4\P1024.cpp                                        | C++             |         29 |          2 |          0 |         31 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202311\week4\P1678.cpp                                        | C++             |         30 |         33 |          0 |         63 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202311\week4\P2437.cpp                                        | C++             |         27 |          0 |          0 |         27 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202311\week4\shudu.cpp                                        | C++             |         32 |          0 |          1 |         33 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202312\week1\BigIntegerAdd.cpp                                | C++             |         27 |          0 |          0 |         27 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202312\week1\BigIntegerDevide.cpp                             | C++             |          9 |          0 |          1 |         10 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202312\week1\BigIntegerMultiply.cpp                           | C++             |         30 |          0 |          2 |         32 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202312\week1\P1009.cpp                                        | C++             |         62 |          0 |          0 |         62 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202312\week1\P1029.cpp                                        | C++             |         19 |          0 |          0 |         19 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202312\week1\P1106.cpp                                        | C++             |          4 |          0 |          1 |          5 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202312\week1\P1135.cpp                                        | C++             |          4 |          0 |          1 |          5 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202312\week1\P1178.cpp                                        | C++             |         36 |          2 |          1 |         39 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202312\week1\P1226.cpp                                        | C++             |         29 |          0 |          0 |         29 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202312\week1\P1440.cpp                                        | C++             |         20 |          0 |          0 |         20 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202312\week1\P1443.cpp                                        | C++             |         34 |          0 |          0 |         34 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202312\week1\P1591.cpp                                        | C++             |         43 |          0 |          2 |         45 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202312\week1\P4715.cpp                                        | C++             |         30 |          0 |          0 |         30 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202312\week1\P4942.cpp                                        | C++             |         34 |         18 |          1 |         53 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202312\week1\UVA11059.cpp                                     | C++             |         21 |          0 |          0 |         21 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202312\week2\P1115.cpp                                        | C++             |         14 |         54 |         15 |         83 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202312\week2\P2842.cpp                                        | C++             |         16 |          0 |          0 |         16 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202312\week3\B3643.cpp                                        | C++             |         29 |         10 |          0 |         39 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202312\week3\P1030.cpp                                        | C++             |         19 |          3 |          0 |         22 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202312\week3\P1305.cpp                                        | C++             |         29 |          0 |          0 |         29 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202312\week3\P1496.cpp                                        | C++             |          9 |          0 |          0 |          9 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202312\week3\P1551.cpp                                        | C++             |         32 |          6 |          0 |         38 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202312\week3\P1827.cpp                                        | C++             |         19 |          3 |          0 |         22 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202312\week3\P1828.cpp                                        | C++             |         20 |          0 |          0 |         20 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202312\week3\P1917.cpp                                        | C++             |         22 |          0 |          0 |         22 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202312\week3\P2367.cpp                                        | C++             |         10 |          0 |          0 |         10 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202312\week3\P3370.cpp                                        | C++             |         18 |          0 |          0 |         18 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202312\week3\P3397.cpp                                        | C++             |         21 |         22 |          0 |         43 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202312\week3\P3916.cpp                                        | C++             |         28 |         28 |          0 |         56 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202312\week3\P4913.cpp                                        | C++             |         43 |          3 |          0 |         46 |
+| d:\Coding\Learn\C&CPP\luogu\2023\202312\week3\P5318.cpp                                        | C++             |         42 |         23 |          1 |         66 |
+| d:\Coding\Learn\C&CPP\luogu\2024\202401\12420.cpp                                              | C++             |         34 |          0 |          0 |         34 |
+| d:\Coding\Learn\C&CPP\luogu\2024\202401\12421.cpp                                              | C++             |         45 |          2 |          1 |         48 |
+| d:\Coding\Learn\C&CPP\luogu\2024\202401\266755.cpp                                             | C++             |         33 |          0 |          0 |         33 |
+| d:\Coding\Learn\C&CPP\luogu\2024\202401\73202A.cpp                                             | C++             |         36 |          1 |          0 |         37 |
+| d:\Coding\Learn\C&CPP\luogu\2024\202401\73422D.cpp                                             | C++             |         52 |          1 |          1 |         54 |
+| d:\Coding\Learn\C&CPP\luogu\2024\202401\73470A.cpp                                             | C++             |         37 |          0 |          1 |         38 |
+| d:\Coding\Learn\C&CPP\luogu\2024\202401\73760B.cpp                                             | C++             |         39 |         16 |          0 |         55 |
+| d:\Coding\Learn\C&CPP\luogu\2024\202401\73760C.cpp                                             | C++             |         40 |          0 |          0 |         40 |
+| d:\Coding\Learn\C&CPP\luogu\2024\202401\73760C_1.cpp                                           | C++             |         47 |         28 |          0 |         75 |
+| d:\Coding\Learn\C&CPP\luogu\2024\202401\73760D.cpp                                             | C++             |         38 |          0 |          1 |         39 |
+| d:\Coding\Learn\C&CPP\luogu\2024\202401\B3614.cpp                                              | C++             |         35 |          0 |          0 |         35 |
+| d:\Coding\Learn\C&CPP\luogu\2024\202401\CF1918A.cpp                                            | C++             |         29 |          0 |          0 |         29 |
+| d:\Coding\Learn\C&CPP\luogu\2024\202401\CF1918B.cpp                                            | C++             |         45 |          0 |          0 |         45 |
+| d:\Coding\Learn\C&CPP\luogu\2024\202401\Eratosthenes.cpp                                       | C++             |         19 |          0 |          0 |         19 |
+| d:\Coding\Learn\C&CPP\luogu\2024\202401\Euluer.cpp                                             | C++             |         20 |          0 |          0 |         20 |
+| d:\Coding\Learn\C&CPP\luogu\2024\202401\JMU_D.cpp                                              | C++             |         51 |         17 |          0 |         68 |
+| d:\Coding\Learn\C&CPP\luogu\2024\202401\NC24840.cpp                                            | C++             |         40 |          0 |          0 |         40 |
+| d:\Coding\Learn\C&CPP\luogu\2024\202401\NC51001.cpp                                            | C++             |         53 |          0 |          0 |         53 |
+| d:\Coding\Learn\C&CPP\luogu\2024\202401\P1020.cpp                                              | C++             |         38 |          7 |          0 |         45 |
+| d:\Coding\Learn\C&CPP\luogu\2024\202401\P1090.cpp                                              | C++             |         24 |          0 |          0 |         24 |
+| d:\Coding\Learn\C&CPP\luogu\2024\202401\P1216.cpp                                              | C++             |         30 |          0 |          0 |         30 |
+| d:\Coding\Learn\C&CPP\luogu\2024\202401\P1440.cpp                                              | C++             |         34 |          1 |          2 |         37 |
+| d:\Coding\Learn\C&CPP\luogu\2024\202401\P1540.cpp                                              | C++             |         25 |          0 |          1 |         26 |
+| d:\Coding\Learn\C&CPP\luogu\2024\202401\P1886.cpp                                              | C++             |         39 |          0 |          0 |         39 |
+| d:\Coding\Learn\C&CPP\luogu\2024\202401\P2032.cpp                                              | C++             |         26 |          6 |          0 |         32 |
+| d:\Coding\Learn\C&CPP\luogu\2024\202401\P2866.cpp                                              | C++             |         36 |          0 |          0 |         36 |
+| d:\Coding\Learn\C&CPP\luogu\2024\202401\P3414.cpp                                              | C++             |         21 |          0 |          0 |         21 |
+| d:\Coding\Learn\C&CPP\luogu\2024\202401\P3811.cpp                                              | C++             |         14 |          0 |          0 |         14 |
+| d:\Coding\Learn\C&CPP\luogu\2024\202401\P4549.cpp                                              | C++             |         33 |          0 |          0 |         33 |
+| d:\Coding\Learn\C&CPP\luogu\2024\202401\P4995.cpp                                              | C++             |         27 |          0 |          0 |         27 |
+| d:\Coding\Learn\C&CPP\luogu\2024\202401\P5015.cpp                                              | C++             |         17 |          0 |          0 |         17 |
+| d:\Coding\Learn\C&CPP\luogu\2024\202401\P5514.cpp                                              | C++             |         15 |          0 |          0 |         15 |
+| d:\Coding\Learn\C&CPP\luogu\2024\202401\P5788.cpp                                              | C++             |         22 |          0 |          0 |         22 |
+| d:\Coding\Learn\C&CPP\luogu\dp\BagQ1.cpp                                                       | C++             |         29 |          0 |          0 |         29 |
+| d:\Coding\Learn\C&CPP\luogu\dp\Bag_01.cpp                                                      | C++             |         43 |          6 |          2 |         51 |
+| d:\Coding\Learn\C&CPP\luogu\dp\PaperMoney.cpp                                                  | C++             |         58 |          0 |          0 |         58 |
+| d:\Coding\Learn\C&CPP\luogu\dp\SplitInteger.cpp                                                | C++             |         26 |          1 |          0 |         27 |
+| d:\Coding\Learn\C&CPP\luogu\dp\Subsequence.cpp                                                 | C++             |         40 |          2 |          1 |         43 |
+| d:\Coding\Learn\C&CPP\luogu\dp\Subsequence1w.cpp                                               | C++             |         28 |         34 |          2 |         64 |
+| d:\Coding\Learn\C&CPP\luogu\dp\fib.cpp                                                         | C++             |         31 |          0 |          0 |         31 |
+| d:\Coding\Learn\C&CPP\luogu\dp\lcs.cpp                                                         | C++             |         24 |          7 |          0 |         31 |
+| d:\Coding\Learn\C&CPP\luogu\dp\leetcode376.cpp                                                 | C++             |         32 |          0 |          4 |         36 |
+| d:\Coding\Learn\C&CPP\luogu\dp\maxStr.cpp                                                      | C++             |         18 |          0 |          0 |         18 |
+| d:\Coding\Learn\C&CPP\luogu\dp\maxSubSum.cpp                                                   | C++             |         15 |          3 |          0 |         18 |
+| d:\Coding\Learn\C&CPP\luogu\dp\maxlength.cpp                                                   | C++             |         34 |          1 |          0 |         35 |
+| d:\Coding\Learn\C&CPP\luogu\dp\robot.cpp                                                       | C++             |         38 |         51 |          0 |         89 |
+| d:\Coding\Learn\C&CPP\luogu\dp\shotestRoute.cpp                                                | C++             |         32 |         12 |          1 |         45 |
+| d:\Coding\Learn\C&CPP\luogu\dp\thief.cpp                                                       | C++             |         25 |         13 |          0 |         38 |
+| d:\Coding\Learn\C&CPP\note.md                                                                  | Markdown        |        144 |          0 |          1 |        145 |
+| d:\Coding\Learn\C&CPP\others\BubbleSort.cpp                                                    | C++             |         18 |          0 |          0 |         18 |
+| d:\Coding\Learn\C&CPP\others\BuildYourOwnLisp\doge_code.c                                      | C               |         17 |          0 |          2 |         19 |
+| d:\Coding\Learn\C&CPP\others\BuildYourOwnLisp\doge_grammar.c                                   | C               |         19 |          0 |          2 |         21 |
+| d:\Coding\Learn\C&CPP\others\BuildYourOwnLisp\interactive.c                                    | C               |         12 |          0 |          3 |         15 |
+| d:\Coding\Learn\C&CPP\others\BuildYourOwnLisp\parsing.c                                        | C               |         47 |          6 |         15 |         68 |
+| d:\Coding\Learn\C&CPP\others\CourseWork\DataStructures\DelMaxElemsOfNode.c                     | C               |         36 |          0 |          7 |         43 |
+| d:\Coding\Learn\C&CPP\others\CourseWork\DataStructures\TableBenchmarkDivision.c                | C               |         34 |         22 |         12 |         68 |
+| d:\Coding\Learn\C&CPP\others\CourseWork\GraphHostipal.cpp                                      | C++             |         89 |          8 |         19 |        116 |
+| d:\Coding\Learn\C&CPP\others\CourseWork\calCarSpeed.c                                          | C               |         20 |          0 |          0 |         20 |
+| d:\Coding\Learn\C&CPP\others\CourseWork\calFractions.c                                         | C               |         10 |          0 |          1 |         11 |
+| d:\Coding\Learn\C&CPP\others\CourseWork\chapter3.cpp                                           | C++             |         19 |          0 |          0 |         19 |
+| d:\Coding\Learn\C&CPP\others\CourseWork\charPointer.cpp                                        | C++             |         23 |          0 |          3 |         26 |
+| d:\Coding\Learn\C&CPP\others\CourseWork\count1.cpp                                             | C++             |         21 |          0 |          0 |         21 |
+| d:\Coding\Learn\C&CPP\others\CourseWork\count2.cpp                                             | C++             |         23 |          0 |          1 |         24 |
+| d:\Coding\Learn\C&CPP\others\CourseWork\dg.c                                                   | C               |         12 |          0 |          1 |         13 |
+| d:\Coding\Learn\C&CPP\others\CourseWork\fenjie.cpp                                             | C++             |         34 |          0 |          4 |         38 |
+| d:\Coding\Learn\C&CPP\others\CourseWork\formatInfo.c                                           | C               |         18 |          0 |          0 |         18 |
+| d:\Coding\Learn\C&CPP\others\CourseWork\maze.cpp                                               | C++             |         17 |          0 |          2 |         19 |
+| d:\Coding\Learn\C&CPP\others\CourseWork\outDateTime.cpp                                        | C++             |         19 |          0 |          0 |         19 |
+| d:\Coding\Learn\C&CPP\others\CourseWork\processDate.c                                          | C               |          8 |          0 |          1 |          9 |
+| d:\Coding\Learn\C&CPP\others\CourseWork\strcmp.c                                               | C               |         28 |          0 |          1 |         29 |
+| d:\Coding\Learn\C&CPP\others\CourseWork\tree.cpp                                               | C++             |         44 |          0 |          6 |         50 |
+| d:\Coding\Learn\C&CPP\others\DataStructures\Graph\Dijkstra.cpp                                 | C++             |         43 |         23 |          0 |         66 |
+| d:\Coding\Learn\C&CPP\others\DataStructures\Tree\BinTree.cpp                                   | C++             |         61 |          0 |          7 |         68 |
+| d:\Coding\Learn\C&CPP\others\DataStructures\Tree\DFS\subset.cpp                                | C++             |         19 |          0 |          0 |         19 |
+| d:\Coding\Learn\C&CPP\others\DataStructures\Tree\tree.cpp                                      | C++             |         11 |          0 |          0 |         11 |
+| d:\Coding\Learn\C&CPP\others\DataStructures\vector\vector1.cpp                                 | C++             |         10 |          0 |          1 |         11 |
+| d:\Coding\Learn\C&CPP\others\InsertionSort.cpp                                                 | C++             |         20 |          0 |          6 |         26 |
+| d:\Coding\Learn\C&CPP\others\PTA\1107-1.cpp                                                    | C++             |         27 |          0 |          1 |         28 |
+| d:\Coding\Learn\C&CPP\others\PTA\1107-2.cpp                                                    | C++             |         30 |          0 |          5 |         35 |
+| d:\Coding\Learn\C&CPP\others\PTA\6-3.c                                                         | C               |         27 |          0 |          4 |         31 |
+| d:\Coding\Learn\C&CPP\others\PTA\6-9.c                                                         | C               |         33 |          6 |          4 |         43 |
+| d:\Coding\Learn\C&CPP\others\PTA\7-1.cpp                                                       | C++             |         50 |         14 |          1 |         65 |
+| d:\Coding\Learn\C&CPP\others\PTA\7-2.cpp                                                       | C++             |         24 |          8 |          0 |         32 |
+| d:\Coding\Learn\C&CPP\others\Project\OpenBox\Makefile                                          | Makefile        |         12 |         23 |          1 |         36 |
+| d:\Coding\Learn\C&CPP\others\Project\OpenBox\OPenBox.cpp                                       | C++             |          2 |          0 |          1 |          3 |
+| d:\Coding\Learn\C&CPP\others\Project\OpenBox\OPenBox.h                                         | C++             |          0 |          0 |          1 |          1 |
+| d:\Coding\Learn\C&CPP\others\Project\OpenBox\main.cpp                                          | C++             |         23 |          0 |          1 |         24 |
+| d:\Coding\Learn\C&CPP\others\Project\Whale Market\.idea\Whale Market.iml                       | XML             |          9 |          0 |          0 |          9 |
+| d:\Coding\Learn\C&CPP\others\Project\Whale Market\.idea\misc.xml                               | XML             |         12 |          0 |          0 |         12 |
+| d:\Coding\Learn\C&CPP\others\Project\Whale Market\.idea\modules.xml                            | XML             |          8 |          0 |          0 |          8 |
+| d:\Coding\Learn\C&CPP\others\Project\Whale Market\.idea\vcs.xml                                | XML             |          6 |          0 |          0 |          6 |
+| d:\Coding\Learn\C&CPP\others\Project\Whale Market\Makefile                                     | Makefile        |         12 |         55 |         17 |         84 |
+| d:\Coding\Learn\C&CPP\others\Project\Whale Market\include\User.h                               | C++             |          9 |          0 |          3 |         12 |
+| d:\Coding\Learn\C&CPP\others\Project\Whale Market\include\tools\User.h                         | C++             |         10 |          0 |          3 |         13 |
+| d:\Coding\Learn\C&CPP\others\Project\Whale Market\include\tools\color.h                        | C++             |         25 |          2 |          4 |         31 |
+| d:\Coding\Learn\C&CPP\others\Project\Whale Market\include\tools\hint.h                         | C++             |         11 |          0 |          2 |         13 |
+| d:\Coding\Learn\C&CPP\others\Project\Whale Market\main.cpp                                     | C++             |         36 |          4 |          4 |         44 |
+| d:\Coding\Learn\C&CPP\others\Project\Whale Market\src\User.cpp                                 | C++             |         16 |          0 |          2 |         18 |
+| d:\Coding\Learn\C&CPP\others\Project\Whale Market\src\tools\color.cpp                          | C++             |         23 |          1 |          3 |         27 |
+| d:\Coding\Learn\C&CPP\others\Project\Whale Market\src\tools\hint.cpp                           | C++             |         22 |          0 |          2 |         24 |
+| d:\Coding\Learn\C&CPP\others\Project\md5-master\README.md                                      | Markdown        |          7 |          0 |          1 |          8 |
+| d:\Coding\Learn\C&CPP\others\Project\md5-master\include\md5.c                                  | C               |        175 |          0 |         16 |        191 |
+| d:\Coding\Learn\C&CPP\others\Project\md5-master\include\md5.h                                  | C++             |         12 |          0 |          5 |         17 |
+| d:\Coding\Learn\C&CPP\others\Project\md5-master\main.c                                         | C               |         53 |          0 |         15 |         68 |
+| d:\Coding\Learn\C&CPP\others\Project\md5-master\md5.c                                          | C               |        175 |          0 |         16 |        191 |
+| d:\Coding\Learn\C&CPP\others\Project\md5-master\md5.h                                          | C++             |         12 |          0 |          5 |         17 |
+| d:\Coding\Learn\C&CPP\others\Project\md5\Makefile                                              | Makefile        |         12 |         23 |          1 |         36 |
+| d:\Coding\Learn\C&CPP\others\Project\md5\main.cpp                                              | C++             |         14 |          0 |          1 |         15 |
+| d:\Coding\Learn\C&CPP\others\Project\md5\md5.cpp                                               | C++             |         18 |          0 |          3 |         21 |
+| d:\Coding\Learn\C&CPP\others\Project\md5\md5.h                                                 | C++             |          8 |          0 |          3 |         11 |
+| d:\Coding\Learn\C&CPP\others\QuickSort.cpp                                                     | C++             |         27 |          0 |          4 |         31 |
+| d:\Coding\Learn\C&CPP\others\SelectionSort.cpp                                                 | C++             |         18 |          0 |          0 |         18 |
+| d:\Coding\Learn\C&CPP\others\TheCProgrammingLanguage\charpter1\MultiplicationTable.c           | C               |         13 |          0 |          2 |         15 |
+| d:\Coding\Learn\C&CPP\others\TheCProgrammingLanguage\charpter1\arr.c                           | C               |         23 |          0 |          2 |         25 |
+| d:\Coding\Learn\C&CPP\others\TheCProgrammingLanguage\charpter1\const.c                         | C               |          9 |          0 |          2 |         11 |
+| d:\Coding\Learn\C&CPP\others\TheCProgrammingLanguage\charpter1\countString.c                   | C               |          8 |          0 |          1 |          9 |
+| d:\Coding\Learn\C&CPP\others\TheCProgrammingLanguage\charpter1\countWords.c                    | C               |         21 |          0 |          2 |         23 |
+| d:\Coding\Learn\C&CPP\others\TheCProgrammingLanguage\charpter1\hello.c                         | C               |          5 |          0 |          1 |          6 |
+| d:\Coding\Learn\C&CPP\others\TheCProgrammingLanguage\charpter1\output.c                        | C               |          7 |          6 |          0 |         13 |
+| d:\Coding\Learn\C&CPP\others\TheCProgrammingLanguage\charpter1\printPrecision.c                | C               |          8 |          0 |          1 |          9 |
+| d:\Coding\Learn\C&CPP\others\darkhouse\array.c                                                 | C               |         20 |          1 |          3 |         24 |
+| d:\Coding\Learn\C&CPP\others\darkhouse\char.c                                                  | C               |          7 |          0 |          1 |          8 |
+| d:\Coding\Learn\C&CPP\others\darkhouse\examples\a.c                                            | C               |         33 |          0 |          6 |         39 |
+| d:\Coding\Learn\C&CPP\others\darkhouse\examples\b.c                                            | C               |         18 |          0 |          0 |         18 |
+| d:\Coding\Learn\C&CPP\others\darkhouse\examples\delStr.c                                       | C               |         23 |          0 |          0 |         23 |
+| d:\Coding\Learn\C&CPP\others\darkhouse\examples\nameLists.c                                    | C               |         30 |          0 |          1 |         31 |
+| d:\Coding\Learn\C&CPP\others\darkhouse\examples\replaceStr.c                                   | C               |         20 |          5 |          1 |         26 |
+| d:\Coding\Learn\C&CPP\others\darkhouse\floatNum.c                                              | C               |         10 |          0 |          1 |         11 |
+| d:\Coding\Learn\C&CPP\others\darkhouse\integer.c                                               | C               |         19 |          0 |          2 |         21 |
+| d:\Coding\Learn\C&CPP\others\darkhouse\randomNum.c                                             | C               |          4 |          0 |          2 |          6 |
+| d:\Coding\Learn\C&CPP\others\darkhouse\typeConvert.c                                           | C               |          7 |          0 |          1 |          8 |
+| d:\Coding\Learn\C&CPP\others\darkhouse\variable.c                                              | C               |         10 |          0 |          4 |         14 |
+| d:\Coding\Learn\C&CPP\others\dataTable.c                                                       | C               |         20 |          0 |          3 |         23 |
+| d:\Coding\Learn\C&CPP\others\functionPointer.c                                                 | C               |         40 |         11 |          5 |         56 |
+| d:\Coding\Learn\C&CPP\others\games\ball.c                                                      | C               |         34 |          0 |          2 |         36 |
+| d:\Coding\Learn\C&CPP\others\maxmin.c                                                          | C               |         24 |          0 |          2 |         26 |
+| d:\Coding\Learn\C&CPP\others\pointerInArray.c                                                  | C               |         31 |          6 |          1 |         38 |
+| d:\Coding\Learn\C&CPP\others\square.c                                                          | C               |         16 |          0 |          0 |         16 |
+| d:\Coding\Learn\C&CPP\others\structPointer.c                                                   | C               |         15 |          0 |          1 |         16 |
+| d:\Coding\Learn\C&CPP\others\testLinkList.c                                                    | C               |         24 |          0 |          8 |         32 |
+| d:\Coding\Learn\C&CPP\others\testSeqLIst.c                                                     | C               |         26 |          0 |          0 |         26 |
+| d:\Coding\Learn\C&CPP\others\testSqqueue.c                                                     | C               |          6 |          0 |          0 |          6 |
+| d:\Coding\Learn\C&CPP\review.cpp                                                               | C++             |         37 |          0 |          0 |         37 |
+| d:\Coding\Learn\C&CPP\template.cpp                                                             | C++             |         23 |          0 |          1 |         24 |
+| d:\Coding\Learn\C&CPP\test.c                                                                   | C               |         40 |          0 |          1 |         41 |
+| d:\Coding\Learn\C&CPP\test.cpp                                                                 | C++             |         32 |          0 |          4 |         36 |
+| d:\Coding\Learn\CPEditor\contest\a.cpp                                                         | C++             |         35 |          1 |          0 |         36 |
+| d:\Coding\Learn\CPEditor\contest\b.cpp                                                         | C++             |         29 |         10 |          1 |         40 |
+| d:\Coding\Learn\CPEditor\contest\c.cpp                                                         | C++             |         31 |         10 |          0 |         41 |
+| d:\Coding\Learn\CPEditor\contest\d.cpp                                                         | C++             |         32 |         11 |          2 |         45 |
+| d:\Coding\Learn\CPEditor\contest\e.cpp                                                         | C++             |         31 |         10 |          1 |         42 |
+| d:\Coding\Learn\CPEditor\contest\f.cpp                                                         | C++             |         62 |          6 |          2 |         70 |
+| d:\Coding\Learn\CPEditor\contest\g.cpp                                                         | C++             |         21 |          0 |          0 |         21 |
+| d:\Coding\Learn\CPEditor\contest\h.cpp                                                         | C++             |         24 |          0 |          0 |         24 |
+| d:\Coding\Learn\CPEditor\template\cpp_template.cpp                                             | C++             |         22 |          0 |          1 |         23 |
+| d:\Coding\Learn\CPEditor\template\java_template.java                                           | Java            |         11 |          0 |          2 |         13 |
+| d:\Coding\Learn\Java\A.java                                                                    | Java            |         20 |          0 |          1 |         21 |
+| d:\Coding\Learn\Java\JavaWeb\HTML\BoxModel\index.html                                          | HTML            |         23 |          0 |          2 |         25 |
+| d:\Coding\Learn\Java\JavaWeb\HTML\SrunLogin\css\style.css                                      | CSS             |         18 |          0 |          0 |         18 |
+| d:\Coding\Learn\Java\JavaWeb\HTML\SrunLogin\index.html                                         | HTML            |         15 |          0 |          1 |         16 |
+| d:\Coding\Learn\Java\Main.java                                                                 | Java            |         28 |          0 |          4 |         32 |
+| d:\Coding\Learn\Java\P11.java                                                                  | Java            |         20 |          0 |          3 |         23 |
+| d:\Coding\Learn\Java\P2021102101.java                                                          | Java            |          9 |          0 |          1 |         10 |
+| d:\Coding\Learn\Java\Solution.java                                                             | Java            |         19 |          0 |          4 |         23 |
+| d:\Coding\Learn\Java\basic_syntax\ArrayLearn\ArrayDemo.java                                    | Java            |         35 |          8 |          5 |         48 |
+| d:\Coding\Learn\Java\basic_syntax\DataTypesAndOperators\AutoTypeConversionDemo1.java           | Java            |         26 |          3 |          5 |         34 |
+| d:\Coding\Learn\Java\basic_syntax\DataTypesAndOperators\Operator.java                          | Java            |         27 |         16 |          8 |         51 |
+| d:\Coding\Learn\Java\basic_syntax\DataTypesAndOperators\ScannerDemo.java                       | Java            |         12 |          0 |          2 |         14 |
+| d:\Coding\Learn\Java\basic_syntax\DataTypesAndOperators\TypeConversionDemo1.java               | Java            |         16 |          4 |          6 |         26 |
+| d:\Coding\Learn\Java\basic_syntax\DataTypesAndOperators\TypeDemo.java                          | Java            |         24 |          0 |          7 |         31 |
+| d:\Coding\Learn\Java\basic_syntax\FlowControl\IfDemo.java                                      | Java            |         14 |          8 |          5 |         27 |
+| d:\Coding\Learn\Java\basic_syntax\FlowControl\Loop.java                                        | Java            |         20 |          9 |          4 |         33 |
+| d:\Coding\Learn\Java\basic_syntax\FlowControl\RandomNum2.java                                  | Java            |         22 |          0 |          2 |         24 |
+| d:\Coding\Learn\Java\basic_syntax\FlowControl\RanomNum.java                                    | Java            |         10 |          1 |          2 |         13 |
+| d:\Coding\Learn\Java\basic_syntax\FlowControl\SwitchCase.java                                  | Java            |         13 |         10 |          5 |         28 |
+| d:\Coding\Learn\Java\basic_syntax\Function\FunctionDemo.java                                   | Java            |         81 |          1 |         10 |         92 |
+| d:\Coding\Learn\Java\basic_syntax\Hello.java                                                   | Java            |         10 |          0 |          1 |         11 |
+| d:\Coding\Learn\Java\basic_syntax\ProgramCase\CopyArray.java                                   | Java            |         14 |          0 |          3 |         17 |
+| d:\Coding\Learn\Java\basic_syntax\ProgramCase\DoubleColorBall.java                             | Java            |         82 |         13 |          8 |        103 |
+| d:\Coding\Learn\Java\basic_syntax\ProgramCase\IsPrime.java                                     | Java            |         21 |          0 |          1 |         22 |
+| d:\Coding\Learn\Java\basic_syntax\ProgramCase\JudgesScoring.java                               | Java            |         22 |          0 |          3 |         25 |
+| d:\Coding\Learn\Java\basic_syntax\ProgramCase\NumberEncryption.java                            | Java            |         13 |         56 |          4 |         73 |
+| d:\Coding\Learn\Java\basic_syntax\ProgramCase\PhursePlaneTickets.java                          | Java            |         26 |          0 |          7 |         33 |
+| d:\Coding\Learn\Java\basic_syntax\ProgramCase\VerificationCcode.java                           | Java            |         24 |          0 |          4 |         28 |
+| d:\Coding\Learn\Java\basic_syntax\Test.java                                                    | Java            |         45 |          0 |         12 |         57 |
+| d:\Coding\Learn\Java\basic_syntax\data types and operators\AutoTypeConversionDemo1.java        | Java            |         26 |          3 |          5 |         34 |
+| d:\Coding\Learn\Java\basic_syntax\data types and operators\Operator.java                       | Java            |         27 |         16 |          8 |         51 |
+| d:\Coding\Learn\Java\basic_syntax\data types and operators\ScannerDemo.java                    | Java            |         12 |          0 |          2 |         14 |
+| d:\Coding\Learn\Java\basic_syntax\data types and operators\TypeConversionDemo1.java            | Java            |         16 |          4 |          6 |         26 |
+| d:\Coding\Learn\Java\basic_syntax\data types and operators\TypeDemo.java                       | Java            |         24 |          0 |          7 |         31 |
+| d:\Coding\Learn\Java\basic_syntax\flow control\IfDemo.java                                     | Java            |         14 |          8 |          5 |         27 |
+| d:\Coding\Learn\Java\basic_syntax\flow control\Loop.java                                       | Java            |         20 |          9 |          4 |         33 |
+| d:\Coding\Learn\Java\basic_syntax\flow control\RandomNum2.java                                 | Java            |         22 |          0 |          2 |         24 |
+| d:\Coding\Learn\Java\basic_syntax\flow control\RanomNum.java                                   | Java            |         10 |          1 |          2 |         13 |
+| d:\Coding\Learn\Java\basic_syntax\flow control\SwitchCase.java                                 | Java            |         13 |         10 |          5 |         28 |
+| d:\Coding\Learn\Java\case.md                                                                   | Markdown        |        246 |          0 |         53 |        299 |
+| d:\Coding\Learn\Java\examples\ATMsystem.java                                                   | Java            |        137 |          0 |         28 |        165 |
+| d:\Coding\Learn\Java\examples\BeerSong.java                                                    | Java            |         21 |          0 |          6 |         27 |
+| d:\Coding\Learn\Java\examples\BubbleSort.java                                                  | Java            |         19 |          0 |          3 |         22 |
+| d:\Coding\Learn\Java\examples\CountLinesOfCode.java                                            | Java            |         33 |          0 |          6 |         39 |
+| d:\Coding\Learn\Java\examples\CountingOccurrences.java                                         | Java            |         19 |         31 |          3 |         53 |
+| d:\Coding\Learn\Java\examples\DownloadPicFromURL.java                                          | Java            |         38 |          3 |          6 |         47 |
+| d:\Coding\Learn\Java\examples\DownloadPicFromURL_.java                                         | Java            |         36 |          0 |          4 |         40 |
+| d:\Coding\Learn\Java\examples\FilmSystem.java                                                  | Java            |         36 |          0 |          9 |         45 |
+| d:\Coding\Learn\Java\examples\FoodDeliverySystem.java                                          | Java            |         71 |          0 |         19 |         90 |
+| d:\Coding\Learn\Java\examples\Gomoku.java                                                      | Java            |        109 |         12 |         12 |        133 |
+| d:\Coding\Learn\Java\examples\LogisticsSystem.java                                             | Java            |         83 |          0 |         13 |         96 |
+| d:\Coding\Learn\Java\examples\SearchingAlgorithm.java                                          | Java            |         21 |          0 |          3 |         24 |
+| d:\Coding\Learn\Java\examples\SimulatedPlayingCard.java                                        | Java            |         47 |         16 |          4 |         67 |
+| d:\Coding\Learn\Java\examples\SimulatedWeibo.java                                              | Java            |         75 |          0 |          5 |         80 |
+| d:\Coding\Learn\Java\examples\TArraylist.java                                                  | Java            |         39 |          0 |          3 |         42 |
+| d:\Coding\Learn\Java\examples\USB.java                                                         | Java            |         44 |          0 |          3 |         47 |
+| d:\Coding\Learn\Java\examples\UserLogin.java                                                   | Java            |         42 |          0 |         11 |         53 |
+| d:\Coding\Learn\Java\examples\WrapperTest.java                                                 | Java            |         17 |          8 |          2 |         27 |
+| d:\Coding\Learn\Java\java_advanced\AWT\FrameTest.java                                          | Java            |         13 |          0 |          3 |         16 |
+| d:\Coding\Learn\Java\java_advanced\AWT\ScrollPaneTest.java                                     | Java            |         12 |          0 |          2 |         14 |
+| d:\Coding\Learn\Java\java_advanced\Enum.java                                                   | Java            |         23 |          3 |          5 |         31 |
+| d:\Coding\Learn\Java\java_advanced\ExceptionTest.java                                          | Java            |         23 |          0 |          3 |         26 |
+| d:\Coding\Learn\Java\java_advanced\ForEach.java                                                | Java            |         13 |          0 |          2 |         15 |
+| d:\Coding\Learn\Java\java_advanced\LambdaExpression.java                                       | Java            |         17 |          0 |          1 |         18 |
+| d:\Coding\Learn\Java\java_advanced\Mltithreading\ThreadCommunication.java                      | Java            |         89 |          0 |          5 |         94 |
+| d:\Coding\Learn\Java\java_advanced\Mltithreading\ThreadDemo.java                               | Java            |         32 |         25 |          6 |         63 |
+| d:\Coding\Learn\Java\java_advanced\Mltithreading\ThreadSecurity.java                           | Java            |         63 |         13 |         16 |         92 |
+| d:\Coding\Learn\Java\java_advanced\NetworkProgram\IPAddress.java                               | Java            |         14 |          5 |          3 |         22 |
+| d:\Coding\Learn\Java\java_advanced\NetworkProgram\TCP\Client.java                              | Java            |         14 |          0 |          3 |         17 |
+| d:\Coding\Learn\Java\java_advanced\NetworkProgram\TCP\Server.java                              | Java            |         17 |          0 |          3 |         20 |
+| d:\Coding\Learn\Java\java_advanced\NetworkProgram\UDP\Client.java                              | Java            |         14 |          0 |          3 |         17 |
+| d:\Coding\Learn\Java\java_advanced\NetworkProgram\UDP\Client2.java                             | Java            |         23 |          0 |          4 |         27 |
+| d:\Coding\Learn\Java\java_advanced\NetworkProgram\UDP\Server.java                              | Java            |         17 |          0 |          3 |         20 |
+| d:\Coding\Learn\Java\java_advanced\NetworkProgram\UDP\Server2.java                             | Java            |         21 |          0 |          3 |         24 |
+| d:\Coding\Learn\Java\java_advanced\class\API.java                                              | Java            |         24 |          4 |          7 |         35 |
+| d:\Coding\Learn\Java\java_advanced\class\APILearn.java                                         | Java            |         30 |          7 |         24 |         61 |
+| d:\Coding\Learn\Java\java_advanced\class\CharacterDemo.java                                    | Java            |         13 |          0 |          3 |         16 |
+| d:\Coding\Learn\Java\java_advanced\class\ClassDemo.java                                        | Java            |         33 |          3 |          7 |         43 |
+| d:\Coding\Learn\Java\java_advanced\class\Extend.java                                           | Java            |         27 |         10 |          0 |         37 |
+| d:\Coding\Learn\Java\java_advanced\class\LoginSystem.java                                      | Java            |         46 |          1 |         13 |         60 |
+| d:\Coding\Learn\Java\java_advanced\class\ObjectOriented.java                                   | Java            |         25 |          9 |          1 |         35 |
+| d:\Coding\Learn\Java\java_advanced\class\Static.java                                           | Java            |         13 |          6 |          2 |         21 |
+| d:\Coding\Learn\Java\java_advanced\collection\ArraryTest2.java                                 | Java            |         31 |          1 |          3 |         35 |
+| d:\Coding\Learn\Java\java_advanced\collection\ArraysTest.java                                  | Java            |          9 |         13 |          3 |         25 |
+| d:\Coding\Learn\Java\java_advanced\collection\CollectionTest.java                              | Java            |         20 |         21 |          2 |         43 |
+| d:\Coding\Learn\Java\java_advanced\collection\Polymorphism.java                                | Java            |          4 |         44 |          2 |         50 |
+| d:\Coding\Learn\Java\java_advanced\collection\SelectionSort.java                               | Java            |         19 |          0 |          4 |         23 |
+| d:\Coding\Learn\Java\java_advanced\collection\SetNesting.java                                  | Java            |         13 |          0 |          2 |         15 |
+| d:\Coding\Learn\Java\java_advanced\generic\Generic.java                                        | Java            |         16 |          1 |          0 |         17 |
+| d:\Coding\Learn\Java\java_advanced\generic\GenericFunction.java                                | Java            |          8 |          0 |          1 |          9 |
+| d:\Coding\Learn\Java\java_advanced\generic\GenericInterface.java                               | Java            |         18 |          0 |          8 |         26 |
+| d:\Coding\Learn\Java\java_advanced\io\FileDemo.java                                            | Java            |         30 |          0 |          2 |         32 |
+| d:\Coding\Learn\Java\java_advanced\io\FileOperator.java                                        | Java            |         82 |          0 |          6 |         88 |
+| d:\Coding\Learn\Java\java_advanced\io\ProperityFile.java                                       | Java            |         16 |          0 |          2 |         18 |
+| d:\Coding\Learn\Java\java_advanced\io\StreamDemo.java                                          | Java            |         40 |         10 |          3 |         53 |
+| d:\Coding\Learn\Java\java_advanced\io\property.properties                                      | Java Properties |          3 |          2 |          1 |          6 |
+| d:\Coding\Learn\Java\thinking_in_java\polymorphism\Cycles.java                                 | Java            |         27 |          0 |          5 |         32 |
+| d:\Coding\Learn\Java\thinking_in_java\polymorphism\Note.java                                   | Java            |         27 |          0 |          5 |         32 |
+| d:\Coding\Learn\Note\Note.md                                                                   | Markdown        |         69 |          0 |         15 |         84 |
+| d:\Coding\Learn\Note\algorithm\dp.md                                                           | Markdown        |         58 |          0 |         10 |         68 |
+| d:\Coding\Learn\P1225.java                                                                     | Java            |         22 |          0 |          0 |         22 |
+| d:\Coding\Learn\README.md                                                                      | Markdown        |          1 |          0 |          0 |          1 |
+| d:\Coding\Learn\Web\OnlineBookShop\index.html                                                  | HTML            |         15 |          0 |          0 |         15 |
+| d:\Coding\Learn\c.java                                                                         | Java            |          7 |          0 |          2 |          9 |
+| Total                                                                                          |                 |     12,383 |      2,102 |      1,139 |     15,624 |
++------------------------------------------------------------------------------------------------+-----------------+------------+------------+------------+------------+

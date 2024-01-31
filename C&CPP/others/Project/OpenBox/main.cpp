@@ -4,7 +4,7 @@
 #include <cstdio>
 #include <cstring>
 #include <windows.h>
-std::unordered_map<std::string, std::string> info = {{"590", "先进制造学院"}};
+#include "OpenBox.h"
 
 int main(int argc, char *argv[]) {
     SetConsoleOutputCP(936);
