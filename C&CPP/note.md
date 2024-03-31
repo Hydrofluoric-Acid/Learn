@@ -145,3 +145,33 @@ char& charAt(int pos);
 ```>>```向下取整，```/```向0取整,如```-3>>1=-2,-3/2=-1```
 # 矩阵快速幂
 P3390 202402week2
+# 并查集
+```
+int fa[N];
+int find(int x){
+    if(fa[x]==x)return x;
+    else return fa[x]=find(fa[x]);
+}
+void merge(int i,int j){
+    fa[find(i)]=find(j);
+}
+```
+# Dijkstra
+[P3371](luogu\2024\202403\week3\P3371.cpp)适用于边权为正
+[P1576](luogu\2024\202403\week3\P1576.cpp)
+[Dijkstra+priority_queue](luogu\2024\202403\week4\P3371.cpp)
+# SPFA
+[P3371-spfa.cpp](luogu\2024\202403\week3\P3371-spfa.cpp)一般用于边权有负的情况
+# ST表
+[P3865.cpp](luogu\2024\202403\week3\P3865.cpp)
+# Floyd
+[P2910](luogu\2024\202403\week3\P2910.cpp)
+# 线性筛
+[P3383](luogu\2024\202403\week3\P3383.cpp)
+# 树状数组
+[模板](luogu\2024\202403\week4\BinaryIndexTree.cpp)
+[区间修改+单点查询](luogu\2024\202403\week4\hdu1556.cpp)
+# dfs
+[全球变暖](luogu\2024\202403\week4\P8662_dfs.cpp)
+# bfs
+[全球变暖](luogu\2024\202403\week4\P8662_bfs.cpp)

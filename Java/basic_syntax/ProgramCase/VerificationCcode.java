@@ -2,7 +2,7 @@ import java.util.Random;
 
 public class VerificationCcode {
     public static void main(String[] args) {
-        System.out.println(generateVerification(400));
+        System.out.println(generateVerification(5));
     }
 
     public static String generateVerification(int n) {

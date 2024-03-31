@@ -1,4 +1,4 @@
-#include "Whale Market\include\User.h"
+#include "../include/User.h"
 
 User::User(std::string user_name, std::string password) {
     user_name = user_name;

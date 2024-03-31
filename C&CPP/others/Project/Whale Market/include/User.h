@@ -1,12 +1,13 @@
-#include<string>
+#include <string>
+#include <fstream>
 
-struct User
-{
-    private:
-        std::string user_name,password;
-    public:
-        User();
+class User {
+private:
+    std::string user_name, password;
+
+public:
+    User(std::string user_name, std::string password);
+    void writeIn();
 };
-
 
 void UserLogin();

@@ -82,3 +82,17 @@ $(TARGET): $(OBJ)
 .PHONY: clean
 clean:
 	del /Q *.o $(TARGET)
+# CXX = g++
+# TARGET = main
+# SRC = $(wildcard *.cpp)#所有满足后缀cpp文件
+# OBJ = $(patsubst %.cpp, %.o, $(SRC))#将SRC结果cpp替换成o
+
+# CXXFLAGS = -c -Wall
+# $(TARGET): $(OBJ)
+# 	$(CXX) -o $@ $^
+# # $@ $^
+#  %.o: %.cpp
+# 	$(CXX) $(CXXFLAGS) $< -o $@
+# .PHONY: clean
+# clean:
+# 	del /Q *.o $(TARGET)
