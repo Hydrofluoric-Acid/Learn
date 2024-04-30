@@ -79,5 +79,6 @@
         "stdio.h": "c",
         "queue": "cpp",
         "stack": "cpp"
-    }
+    },
+    "C_Cpp.errorSquiggles": "disabled"
 }

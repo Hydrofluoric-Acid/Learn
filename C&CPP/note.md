@@ -166,8 +166,10 @@ void merge(int i,int j){
 [P3865.cpp](luogu\2024\202403\week3\P3865.cpp)
 # Floyd
 [P2910](luogu\2024\202403\week3\P2910.cpp)
+# 埃氏筛
+[Eratosthemes](luogu\2024\202404\week1\Eratosthemes.cpp)
 # 线性筛
-[P3383](luogu\2024\202403\week3\P3383.cpp)
+[Euler](luogu\2024\202404\week1\Euler.cpp)
 # 树状数组
 [模板](luogu\2024\202403\week4\BinaryIndexTree.cpp)
 [区间修改+单点查询](luogu\2024\202403\week4\hdu1556.cpp)

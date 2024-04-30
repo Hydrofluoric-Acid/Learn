@@ -29,7 +29,7 @@ int main() {
     for(int i=1;i<=n;i++){
         for(int j=0;j<=V;j++){
             for(int k=0;j>=v[i]*k&&k<=s[i];k++){
-                dp[i][j]= max(dp[i][j],dp[i-1][j-v[i]*k]+k*w[i]);
+                dp[i][j]= max(dp[i-1][j],dp[i-1][j-v[i]*k]+k*w[i]);
             }
         }
     }

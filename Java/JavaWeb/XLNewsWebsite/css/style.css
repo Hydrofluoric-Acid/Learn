@@ -1,0 +1,25 @@
+h1{
+    color: #4d4f53;;
+}
+.cls{
+    color:#968D92;
+}
+#time{
+    color:red;
+    font-size: 12px;
+}
+span{
+    color:green;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+p{
+    text-indent: 30px;
+    line-height: 40px;
+}
+#t{
+    width: 65%;
+    margin: 0% 17.5% 0% 17.5%;
+}

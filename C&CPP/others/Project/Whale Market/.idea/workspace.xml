@@ -10,26 +10,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5f4b5b90-db61-4d7b-9f00-57a1cfcf47c4" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../../.VSCodeCounter/2024-02-29_23-02-34/details.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../.VSCodeCounter/2024-02-29_23-02-34/diff-details.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../.VSCodeCounter/2024-02-29_23-02-34/diff.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../.VSCodeCounter/2024-02-29_23-02-34/diff.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../.VSCodeCounter/2024-02-29_23-02-34/diff.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../.VSCodeCounter/2024-02-29_23-02-34/results.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../.VSCodeCounter/2024-02-29_23-02-34/results.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../.VSCodeCounter/2024-02-29_23-02-34/results.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../.VSCodeCounter/2024-02-29_23-02-34/results.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../luogu/2024/202402/week1/mutipleBag.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../luogu/2024/202402/week1/mutipleBag.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../luogu/2024/202403/week3/P3865.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../luogu/2024/202403/week3/P3865.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../luogu/2024/202403/week4/CF1352C.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../luogu/2024/202403/week4/CF1950E.cpp" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../note.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../note.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/User.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/User.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/tools/User.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/User.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/User.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../template.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../template.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../test.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Java/examples/UserLogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Java/examples/UserLogin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java/JavaWeb/HTML/BoxModel/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java/JavaWeb/HTML/SrunLogin/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java/JavaWeb/HTML/SrunLogin/img/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java/JavaWeb/HTML/SrunLogin/img/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java/JavaWeb/HTML/SrunLogin/img/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java/JavaWeb/HTML/SrunLogin/img/middle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java/JavaWeb/HTML/SrunLogin/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java/eclipse_workspace/Courese/bin/.project" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,28 +47,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;cf.advertisement.text.has.clang-format&quot;: &quot;true&quot;,
-    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/admin/CLionProjects/WhaleMarket&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;SDK&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.advertisement.text.has.clang-format": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/Coding/Learn/Java/JavaWeb/vue-test",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "SDK",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
@@ -84,6 +80,7 @@
       <workItem from="1710427658627" duration="324000" />
       <workItem from="1710428233979" duration="56000" />
       <workItem from="1710573914142" duration="70000" />
+      <workItem from="1713696380713" duration="24000" />
     </task>
     <servers />
   </component>

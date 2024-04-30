@@ -11,18 +11,13 @@ int main() {
     while(t--){
         int n,k;
         cin>>n>>k;
-        ll l=1,r=1e18;
-        while(l<=r){
-            ll mid=l+r>>1;
-            ll th;
-            if(mid%n){th=mid-mid/n;}
-            if(th==k){
-                cout<<mid<<endl;
-                break;
-            }else if(th>k){
-                r=mid+1;
-            }else l=mid;
+        ll ans=k;
+        while(true){
+            ans+=k/n;
+            k=k/n+k%n;
+            if(k<n)break;
         }
+        cout<<ans<<endl;
     }
     return 0;
 }
