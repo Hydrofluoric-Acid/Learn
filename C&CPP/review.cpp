@@ -1,37 +1,11 @@
 #include <bits/stdc++.h>
-using namespace std;
+#define endl "\n"
 typedef long long ll;
-ll gcd(ll a, ll b) {
-    if (a % b == 0)
-        return b;
-    else
-        return gcd(b, a % b);
-}
-ll pows(int a, int b) {
-    ll ans = 1;
-    while (b) {
-        if (b & 1) {
-            ans *= a;
-        }
-        a *= a;
-        b >>= 1;
-    }
-    return ans;
-}
-ll pows1(int a, int b, int c) {
-    ll ans = 1;
-    while (b) {
-        if (b & 1) {
-            ans *= a % c;
-        }
-        a *= a % c;
-        b >>= 1;
-    }
-    return ans;
-}
+const int mod = 1e9 + 7, inf = 0x3f3f3f3f, N = 1e5 + 5;
+using namespace std;
 int main() {
-    cout << gcd(12, 48) << endl;
-    cout << __gcd(12, 48) << endl;
-    cout << pows(2, 5) << endl;
-    cout << pows1(2, 5, 3) << endl;
+    ios::sync_with_stdio(0);
+    cin.tie(0);
+    cout<<(999999998%999999999); 
+    return 0;
 }
